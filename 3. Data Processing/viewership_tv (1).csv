@@ -1,0 +1,1001 @@
+user_id,channel,record_datetime,duration_hhmmss,gender,age,province,age_group,time_of_day,seconds_viewed
+903994,Trace TV,2016-01-04T18:09:00.000Z,1899-12-31T00:02:00.000Z,male,33,Western Cape,youth,Evening,120
+802352,ICC Cricket World Cup 2011,2016-03-30T09:04:00.000Z,1899-12-31T00:10:06.000Z,None,0,None,children,Morning,606
+866125,ICC Cricket World Cup 2011,2016-03-30T17:01:00.000Z,1899-12-31T00:00:42.000Z,male,30,Gauteng,youth,Evening,42
+2425604,ICC Cricket World Cup 2011,2016-03-25T15:23:00.000Z,1899-12-31T00:00:10.000Z,female,51,Gauteng,adults,Afternoon,10
+793571,SawSee,2016-02-02T17:18:00.000Z,1899-12-31T00:01:33.000Z,female,9,Eastern Cape,children,Evening,93
+793571,Boomerang,2016-03-18T16:56:00.000Z,1899-12-31T00:00:10.000Z,female,9,Eastern Cape,children,Afternoon,10
+793571,Channel O,2016-03-20T04:25:00.000Z,1899-12-31T00:17:15.000Z,female,9,Eastern Cape,children,Night,1035
+793571,Boomerang,2016-02-03T06:43:00.000Z,1899-12-31T00:01:13.000Z,female,9,Eastern Cape,children,Morning,73
+819248,Channel O,2016-03-31T10:01:00.000Z,1899-12-31T00:04:45.000Z,None,0,None,children,Morning,285
+820321,Cartoon Network,2016-01-09T08:25:00.000Z,1899-12-31T00:00:40.000Z,male,26,Kwazulu Natal,youth,Morning,40
+892453,Supersport Live Events,2016-03-24T09:09:00.000Z,1899-12-31T00:00:06.000Z,male,34,Gauteng,youth,Morning,6
+892453,ICC Cricket World Cup 2011,2016-03-26T15:33:00.000Z,1899-12-31T05:01:12.000Z,male,34,Gauteng,youth,Afternoon,18072
+828799,Channel O,2016-02-28T08:09:00.000Z,1899-12-31T00:00:00.000Z,male,38,Mpumalanga,adults,Morning,0
+787656,Channel O,2016-02-15T08:40:00.000Z,1899-12-31T00:11:15.000Z,male,26,Gauteng,youth,Morning,675
+939566,Supersport Live Events,2016-01-09T15:40:00.000Z,1899-12-31T00:22:02.000Z,male,29,Mpumalanga,youth,Afternoon,1322
+771778,Supersport Live Events,2016-02-05T13:47:00.000Z,1899-12-31T00:04:12.000Z,male,21,Eastern Cape,youth,Afternoon,252
+808915,SuperSport Blitz,2016-02-20T05:34:00.000Z,1899-12-31T00:01:14.000Z,male,37,Kwazulu Natal,adults,Morning,74
+808915,Supersport Live Events,2016-02-21T13:45:00.000Z,1899-12-31T00:00:50.000Z,male,37,Kwazulu Natal,adults,Afternoon,50
+808916,E! Entertainment,2016-02-19T11:03:00.000Z,1899-12-31T00:01:42.000Z,male,43,Western Cape,adults,Morning,102
+808916,Boomerang,2016-02-19T20:15:00.000Z,1899-12-31T00:00:00.000Z,male,43,Western Cape,adults,Evening,0
+831679,Supersport Live Events,2016-03-01T03:17:00.000Z,1899-12-31T00:00:50.000Z,male,27,Gauteng,youth,Night,50
+808917,Break in transmission,2016-02-27T18:13:00.000Z,1899-12-31T00:00:26.000Z,male,34,Gauteng,youth,Evening,26
+808917,Supersport Live Events,2016-02-28T20:20:00.000Z,1899-12-31T00:00:24.000Z,male,34,Gauteng,youth,Evening,24
+939570,kykNET,2016-03-30T23:52:00.000Z,1899-12-31T00:01:24.000Z,male,22,Gauteng,youth,Night,84
+880213,Africa Magic,2016-03-30T19:13:00.000Z,1899-12-31T00:00:11.500Z,male,33,Gauteng,youth,Evening,11
+2255459,SawSee,2016-03-09T08:51:00.000Z,1899-12-31T00:00:15.000Z,male,22,Mpumalanga,youth,Morning,15
+2255459,Channel O,2016-03-29T02:23:00.000Z,1899-12-31T00:07:54.000Z,male,22,Mpumalanga,youth,Night,474
+808921,Trace TV,2016-03-02T06:01:00.000Z,1899-12-31T00:18:27.000Z,male,24,Mpumalanga,youth,Morning,1107
+808921,Channel O,2016-03-06T15:58:00.000Z,1899-12-31T00:00:48.000Z,male,24,Mpumalanga,youth,Afternoon,48
+831683,CNN,2016-02-25T19:48:00.000Z,1899-12-31T00:00:42.000Z,male,36,Kwazulu Natal,adults,Evening,42
+831683,Africa Magic,2016-02-25T15:59:00.000Z,1899-12-31T00:00:00.000Z,male,36,Kwazulu Natal,adults,Afternoon,0
+831683,ICC Cricket World Cup 2011,2016-03-04T07:21:00.000Z,1899-12-31T00:00:00.000Z,male,36,Kwazulu Natal,adults,Morning,0
+761775,Cartoon Network,2016-02-04T14:12:00.000Z,1899-12-31T00:02:15.000Z,male,24,Gauteng,youth,Afternoon,135
+761775,SuperSport Blitz,2016-01-25T15:59:00.000Z,1899-12-31T00:01:14.000Z,male,24,Gauteng,youth,Afternoon,74
+866131,Boomerang,2016-03-07T17:16:00.000Z,1899-12-31T00:00:03.000Z,male,44,Western Cape,adults,Evening,3
+904019,Africa Magic,2016-03-29T16:03:00.000Z,1899-12-31T00:14:57.500Z,female,25,Gauteng,youth,Afternoon,897
+939575,Africa Magic,2016-03-10T21:30:00.000Z,1899-12-31T00:01:22.000Z,male,25,Gauteng,youth,Night,82
+808923,SuperSport Blitz,2016-02-21T18:03:00.000Z,1899-12-31T00:01:12.000Z,male,23,Eastern Cape,youth,Evening,72
+808923,Trace TV,2016-02-17T18:45:00.000Z,1899-12-31T00:13:21.000Z,male,23,Eastern Cape,youth,Evening,801
+933014,Boomerang,2016-03-31T23:24:00.000Z,1899-12-31T00:00:00.000Z,male,19,Limpopo,youth,Night,0
+892461,SawSee,2016-03-12T08:24:00.000Z,1899-12-31T00:01:18.000Z,male,30,Kwazulu Natal,youth,Morning,78
+892461,SawSee,2016-03-09T03:54:00.000Z,1899-12-31T00:00:00.000Z,male,30,Kwazulu Natal,youth,Night,0
+2255463,Boomerang,2016-03-31T13:17:00.000Z,1899-12-31T00:00:54.000Z,male,43,Gauteng,adults,Afternoon,54
+808926,Supersport Live Events,2016-02-19T07:20:00.000Z,1899-12-31T01:29:08.000Z,male,22,Western Cape,youth,Morning,5348
+808926,Channel O,2016-02-21T06:27:00.000Z,1899-12-31T00:01:48.000Z,male,22,Western Cape,youth,Morning,108
+808926,Trace TV,2016-02-02T10:17:00.000Z,1899-12-31T00:01:06.000Z,male,22,Western Cape,youth,Morning,66
+808926,Supersport Live Events,2016-02-25T06:38:00.000Z,1899-12-31T00:03:14.000Z,male,22,Western Cape,youth,Morning,194
+808926,Cartoon Network,2016-02-18T12:00:00.000Z,1899-12-31T00:21:11.000Z,male,22,Western Cape,youth,Afternoon,1271
+771783,Trace TV,2016-02-01T12:51:00.000Z,1899-12-31T00:04:45.000Z,male,23,Gauteng,youth,Afternoon,285
+771783,SawSee,2016-01-30T21:43:00.000Z,1899-12-31T00:00:13.000Z,male,23,Gauteng,youth,Night,13
+2368357,SuperSport Blitz,2016-03-02T12:32:00.000Z,1899-12-31T00:03:52.000Z,male,37,Gauteng,adults,Afternoon,232
+2368357,Supersport Live Events,2016-03-08T10:46:00.000Z,1899-12-31T00:00:56.000Z,male,37,Gauteng,adults,Morning,56
+2368357,Cartoon Network,2016-03-08T15:28:00.000Z,1899-12-31T00:00:00.000Z,male,37,Gauteng,adults,Afternoon,0
+2368357,Trace TV,2016-03-08T15:28:00.000Z,1899-12-31T00:00:00.000Z,male,37,Gauteng,adults,Afternoon,0
+788616,SuperSport Blitz,2016-01-27T12:03:00.000Z,1899-12-31T00:00:06.000Z,female,44,Gauteng,adults,Afternoon,6
+771785,ICC Cricket World Cup 2011,2016-02-28T16:53:00.000Z,1899-12-31T00:00:46.000Z,male,43,Gauteng,adults,Afternoon,46
+630977,Trace TV,2016-01-16T09:52:00.000Z,1899-12-31T00:00:15.000Z,male,28,Gauteng,youth,Morning,15
+808928,Channel O,2016-02-13T19:35:00.000Z,1899-12-31T00:05:30.000Z,male,35,Gauteng,youth,Evening,330
+808928,ICC Cricket World Cup 2011,2016-03-01T12:15:00.000Z,1899-12-31T00:00:00.000Z,male,35,Gauteng,youth,Afternoon,0
+831694,Africa Magic,2016-03-01T22:07:00.000Z,1899-12-31T00:00:02.000Z,male,25,Limpopo,youth,Night,2
+808929,Africa Magic,2016-01-11T18:18:00.000Z,1899-12-31T00:00:57.000Z,female,32,Eastern Cape,youth,Evening,57
+808929,Cartoon Network,2016-01-24T18:35:00.000Z,1899-12-31T01:32:32.000Z,female,32,Eastern Cape,youth,Evening,5552
+892465,Cartoon Network,2016-03-13T18:39:00.000Z,1899-12-31T00:02:31.000Z,male,36,Gauteng,adults,Evening,151
+892465,Channel O,2016-03-14T10:38:00.000Z,1899-12-31T00:00:36.000Z,male,36,Gauteng,adults,Morning,36
+892465,CNN,2016-03-18T14:04:00.000Z,1899-12-31T00:00:37.000Z,male,36,Gauteng,adults,Afternoon,37
+892465,Vuzu,2016-03-19T07:23:00.000Z,1899-12-31T00:00:20.000Z,male,36,Gauteng,adults,Morning,20
+892465,Africa Magic,2016-03-31T10:45:00.000Z,1899-12-31T00:00:08.000Z,male,36,Gauteng,adults,Morning,8
+892465,Africa Magic,2016-03-30T14:13:00.000Z,1899-12-31T00:00:26.000Z,male,36,Gauteng,adults,Afternoon,26
+820335,ICC Cricket World Cup 2011,2016-03-08T09:19:00.000Z,1899-12-31T00:22:56.000Z,male,17,Gauteng,children,Morning,1376
+820335,Cartoon Network,2016-03-19T05:10:00.000Z,1899-12-31T00:00:06.000Z,male,17,Gauteng,children,Morning,6
+820335,ICC Cricket World Cup 2011,2016-03-12T09:38:00.000Z,1899-12-31T00:00:38.000Z,male,17,Gauteng,children,Morning,38
+820335,ICC Cricket World Cup 2011,2016-03-12T09:48:00.000Z,1899-12-31T00:01:52.000Z,male,17,Gauteng,children,Morning,112
+820335,ICC Cricket World Cup 2011,2016-03-09T13:14:00.000Z,1899-12-31T00:27:16.000Z,male,17,Gauteng,children,Afternoon,1636
+820335,ICC Cricket World Cup 2011,2016-03-26T12:44:00.000Z,1899-12-31T00:04:22.000Z,male,17,Gauteng,children,Afternoon,262
+830836,Boomerang,2016-03-02T11:07:00.000Z,1899-12-31T00:00:07.000Z,male,21,Free State,youth,Morning,7
+770963,Supersport Live Events,2016-03-24T09:45:00.000Z,1899-12-31T00:23:04.000Z,None,0,None,children,Morning,1384
+770963,ICC Cricket World Cup 2011,2016-02-25T09:28:00.000Z,1899-12-31T00:06:10.000Z,None,0,None,children,Morning,370
+904035,E! Entertainment,2016-03-29T19:34:00.000Z,1899-12-31T00:05:42.000Z,male,23,Gauteng,youth,Evening,342
+868888,ICC Cricket World Cup 2011,2016-03-30T11:55:00.000Z,1899-12-31T00:06:54.000Z,male,21,Gauteng,youth,Morning,414
+808930,Supersport Live Events,2016-02-22T08:29:00.000Z,1899-12-31T00:01:28.000Z,male,35,Limpopo,youth,Morning,88
+808930,ICC Cricket World Cup 2011,2016-03-02T09:38:00.000Z,1899-12-31T00:04:30.000Z,male,35,Limpopo,youth,Morning,270
+808930,ICC Cricket World Cup 2011,2016-03-11T08:40:00.000Z,1899-12-31T00:00:00.000Z,male,35,Limpopo,youth,Morning,0
+808930,ICC Cricket World Cup 2011,2016-02-24T11:23:00.000Z,1899-12-31T00:03:56.000Z,male,35,Limpopo,youth,Morning,236
+808930,ICC Cricket World Cup 2011,2016-02-24T08:33:00.000Z,1899-12-31T00:03:44.000Z,male,35,Limpopo,youth,Morning,224
+808930,Supersport Live Events,2016-02-27T17:11:00.000Z,1899-12-31T00:00:28.000Z,male,35,Limpopo,youth,Evening,28
+808930,ICC Cricket World Cup 2011,2016-02-23T15:26:00.000Z,1899-12-31T00:00:08.000Z,male,35,Limpopo,youth,Afternoon,8
+808930,ICC Cricket World Cup 2011,2016-03-30T12:19:00.000Z,1899-12-31T00:23:08.000Z,male,35,Limpopo,youth,Afternoon,1388
+879414,CNN,2016-03-31T21:19:00.000Z,1899-12-31T00:00:52.000Z,male,30,Western Cape,youth,Night,52
+771791,Channel O,2016-03-14T11:51:00.000Z,1899-12-31T00:02:54.000Z,male,34,Gauteng,youth,Morning,174
+771791,M-Net,2016-03-06T05:02:00.000Z,1899-12-31T00:01:43.000Z,male,34,Gauteng,youth,Morning,103
+819259,Supersport Live Events,2016-02-26T15:53:00.000Z,1899-12-31T00:01:44.000Z,female,10,Western Cape,children,Afternoon,104
+2285528,ICC Cricket World Cup 2011,2016-03-15T10:20:00.000Z,1899-12-31T00:53:50.000Z,male,26,Western Cape,youth,Morning,3230
+868892,Trace TV,2016-03-12T14:47:00.000Z,1899-12-31T00:05:54.000Z,male,20,Gauteng,youth,Afternoon,354
+808971,Boomerang,2016-02-08T10:45:00.000Z,1899-12-31T00:00:14.000Z,male,36,Gauteng,adults,Morning,14
+868892,Channel O,2016-03-10T10:50:00.000Z,1899-12-31T00:01:42.000Z,male,20,Gauteng,youth,Morning,102
+866251,Boomerang,2016-03-10T19:13:00.000Z,1899-12-31T00:04:31.000Z,male,30,Gauteng,youth,Evening,271
+779369,CNN,2016-02-11T19:35:00.000Z,1899-12-31T00:20:39.000Z,male,36,Gauteng,adults,Evening,1239
+779369,E! Entertainment,2016-01-20T05:20:00.000Z,1899-12-31T00:06:16.000Z,male,36,Gauteng,adults,Morning,376
+779369,CNN,2016-01-18T13:06:00.000Z,1899-12-31T00:13:19.000Z,male,36,Gauteng,adults,Afternoon,799
+1281997,Cartoon Network,2016-02-20T16:51:00.000Z,1899-12-31T00:00:35.000Z,female,14,Free State,children,Afternoon,35
+615057,Channel O,2016-01-10T07:34:00.000Z,1899-12-31T00:14:12.000Z,female,25,Limpopo,youth,Morning,852
+786055,Channel O,2016-01-19T18:42:00.000Z,1899-12-31T00:01:03.000Z,female,25,Gauteng,youth,Evening,63
+786055,DStv Events 1,2016-01-18T17:49:00.000Z,1899-12-31T00:02:25.000Z,female,25,Gauteng,youth,Evening,145
+850656,Africa Magic,2016-03-05T21:12:00.000Z,1899-12-31T00:00:16.500Z,male,26,Mpumalanga,youth,Night,16
+850656,Channel O,2016-03-06T05:25:00.000Z,1899-12-31T00:00:00.000Z,male,26,Mpumalanga,youth,Morning,0
+850656,Africa Magic,2016-03-06T07:09:00.000Z,1899-12-31T00:00:00.000Z,male,26,Mpumalanga,youth,Morning,0
+2368365,ICC Cricket World Cup 2011,2016-03-30T11:17:00.000Z,1899-12-31T00:38:12.000Z,male,27,Limpopo,youth,Morning,2292
+764296,E! Entertainment,2016-02-04T08:42:00.000Z,1899-12-31T00:02:26.000Z,male,23,Western Cape,youth,Morning,146
+764296,Trace TV,2016-02-01T20:10:00.000Z,1899-12-31T00:00:00.000Z,male,23,Western Cape,youth,Evening,0
+779373,CNN,2016-02-28T05:58:00.000Z,1899-12-31T00:06:27.000Z,male,40,Limpopo,adults,Morning,387
+771793,Supersport Live Events,2016-01-05T21:33:00.000Z,1899-12-31T00:04:56.000Z,female,40,Western Cape,adults,Night,296
+771793,Supersport Live Events,2016-01-10T04:43:00.000Z,1899-12-31T00:00:00.000Z,female,40,Western Cape,adults,Night,0
+771793,Trace TV,2016-02-18T20:23:00.000Z,1899-12-31T00:00:42.000Z,female,40,Western Cape,adults,Evening,42
+771793,Trace TV,2016-02-12T00:38:00.000Z,1899-12-31T00:02:33.000Z,female,40,Western Cape,adults,Night,153
+1106084,Channel O,2016-03-22T18:50:00.000Z,1899-12-31T00:11:39.000Z,male,37,Gauteng,adults,Evening,699
+1106084,Supersport Live Events,2016-03-05T17:30:00.000Z,1899-12-31T00:00:54.000Z,male,37,Gauteng,adults,Evening,54
+1106084,ICC Cricket World Cup 2011,2016-03-06T09:20:00.000Z,1899-12-31T00:11:24.000Z,male,37,Gauteng,adults,Morning,684
+1106084,Trace TV,2016-03-09T04:54:00.000Z,1899-12-31T00:03:24.000Z,male,37,Gauteng,adults,Night,204
+1106084,Channel O,2016-03-09T18:00:00.000Z,1899-12-31T00:04:39.000Z,male,37,Gauteng,adults,Evening,279
+868895,Trace TV,2016-03-14T23:35:00.000Z,1899-12-31T00:13:48.000Z,male,23,Western Cape,youth,Night,828
+868895,ICC Cricket World Cup 2011,2016-03-12T12:18:00.000Z,1899-12-31T00:38:02.000Z,male,23,Western Cape,youth,Afternoon,2282
+868895,Trace TV,2016-03-12T12:19:00.000Z,1899-12-31T00:01:09.000Z,male,23,Western Cape,youth,Afternoon,69
+868895,ICC Cricket World Cup 2011,2016-03-16T00:02:00.000Z,1899-12-31T00:02:00.000Z,male,23,Western Cape,youth,Night,120
+868895,Channel O,2016-03-16T00:14:00.000Z,1899-12-31T00:03:18.000Z,male,23,Western Cape,youth,Night,198
+808934,Supersport Live Events,2016-03-24T12:17:00.000Z,1899-12-31T00:12:40.000Z,male,36,Kwazulu Natal,adults,Afternoon,760
+808934,Boomerang,2016-03-11T16:58:00.000Z,1899-12-31T00:05:30.000Z,male,36,Kwazulu Natal,adults,Afternoon,330
+808934,Supersport Live Events,2016-02-06T06:56:00.000Z,1899-12-31T00:00:00.000Z,male,36,Kwazulu Natal,adults,Morning,0
+808934,Trace TV,2016-02-06T10:38:00.000Z,1899-12-31T00:04:03.000Z,male,36,Kwazulu Natal,adults,Morning,243
+808934,Supersport Live Events,2016-02-06T19:55:00.000Z,1899-12-31T00:03:38.000Z,male,36,Kwazulu Natal,adults,Evening,218
+808934,Trace TV,2016-03-06T12:38:00.000Z,1899-12-31T00:04:57.000Z,male,36,Kwazulu Natal,adults,Afternoon,297
+808934,SuperSport Blitz,2016-02-12T17:16:00.000Z,1899-12-31T00:02:42.000Z,male,36,Kwazulu Natal,adults,Evening,162
+808934,Supersport Live Events,2016-03-06T13:58:00.000Z,1899-12-31T00:01:02.000Z,male,36,Kwazulu Natal,adults,Afternoon,62
+808934,Supersport Live Events,2016-03-06T14:00:00.000Z,1899-12-31T00:01:38.000Z,male,36,Kwazulu Natal,adults,Afternoon,98
+808934,Supersport Live Events,2016-03-27T16:07:00.000Z,1899-12-31T00:01:30.000Z,male,36,Kwazulu Natal,adults,Afternoon,90
+939592,Supersport Live Events,2016-03-27T14:51:00.000Z,1899-12-31T00:17:32.000Z,male,34,Western Cape,youth,Afternoon,1052
+771796,SuperSport Blitz,2016-02-05T15:17:00.000Z,1899-12-31T00:27:14.000Z,male,35,Western Cape,youth,Afternoon,1634
+771796,Supersport Live Events,2016-03-24T10:46:00.000Z,1899-12-31T00:02:28.000Z,male,35,Western Cape,youth,Morning,148
+771796,Channel O,2016-02-06T16:10:00.000Z,1899-12-31T00:00:51.000Z,male,35,Western Cape,youth,Afternoon,51
+771796,Supersport Live Events,2016-02-06T16:18:00.000Z,1899-12-31T00:00:18.000Z,male,35,Western Cape,youth,Afternoon,18
+771796,Supersport Live Events,2016-03-27T16:58:00.000Z,1899-12-31T00:24:10.000Z,male,35,Western Cape,youth,Afternoon,1450
+771796,Supersport Live Events,2016-03-26T17:00:00.000Z,1899-12-31T01:44:38.000Z,male,35,Western Cape,youth,Evening,6278
+889840,Supersport Live Events,2016-03-20T20:18:00.000Z,1899-12-31T00:00:00.000Z,male,31,Mpumalanga,youth,Evening,0
+2368371,Supersport Live Events,2016-03-26T10:25:00.000Z,1899-12-31T00:08:12.000Z,male,44,Western Cape,adults,Morning,492
+617535,Africa Magic,2016-01-11T20:08:00.000Z,1899-12-31T00:00:11.000Z,male,40,Gauteng,adults,Evening,11
+617961,Boomerang,2016-01-31T22:06:00.000Z,1899-12-31T00:09:11.000Z,male,30,Mpumalanga,youth,Night,551
+771797,SuperSport Blitz,2016-02-03T13:31:00.000Z,1899-12-31T00:00:32.000Z,male,35,Gauteng,youth,Afternoon,32
+67584,Supersport Live Events,2016-01-18T15:04:00.000Z,1899-12-31T00:05:58.000Z,male,58,Western Cape,adults,Afternoon,358
+808936,Supersport Live Events,2016-03-24T12:31:00.000Z,1899-12-31T00:05:50.000Z,male,23,Gauteng,youth,Afternoon,350
+808936,Supersport Live Events,2016-02-18T10:25:00.000Z,1899-12-31T00:00:00.000Z,male,23,Gauteng,youth,Morning,0
+590480,Africa Magic,2016-01-04T16:11:00.000Z,1899-12-31T00:02:47.000Z,female,10,Western Cape,children,Afternoon,167
+831713,Trace TV,2016-03-14T07:08:00.000Z,1899-12-31T00:07:06.000Z,female,26,North West,youth,Morning,426
+831713,Trace TV,2016-03-07T14:45:00.000Z,1899-12-31T00:15:21.000Z,female,26,North West,youth,Afternoon,921
+817216,ICC Cricket World Cup 2011,2016-02-24T15:57:00.000Z,1899-12-31T00:02:56.000Z,male,31,Kwazulu Natal,youth,Afternoon,176
+817216,M-Net,2016-02-25T21:13:00.000Z,1899-12-31T00:00:00.000Z,male,31,Kwazulu Natal,youth,Night,0
+2406478,Supersport Live Events,2016-03-26T13:50:00.000Z,1899-12-31T00:07:00.000Z,male,39,Eastern Cape,adults,Afternoon,420
+793592,Channel O,2016-03-21T12:34:00.000Z,1899-12-31T01:06:21.000Z,None,0,None,children,Afternoon,3981
+904063,Cartoon Network,2016-03-26T22:02:00.000Z,1899-12-31T00:00:17.000Z,male,34,Gauteng,youth,Night,17
+904063,Cartoon Network,2016-03-26T20:09:00.000Z,1899-12-31T00:00:15.000Z,male,34,Gauteng,youth,Evening,15
+586459,Cartoon Network,2016-01-02T09:49:00.000Z,1899-12-31T00:05:10.000Z,male,22,Free State,youth,Morning,310
+791320,ICC Cricket World Cup 2011,2016-03-05T12:57:00.000Z,1899-12-31T00:00:14.000Z,female,37,Kwazulu Natal,adults,Afternoon,14
+791320,ICC Cricket World Cup 2011,2016-03-06T09:33:00.000Z,1899-12-31T00:13:04.000Z,female,37,Kwazulu Natal,adults,Morning,784
+791320,ICC Cricket World Cup 2011,2016-03-06T08:32:00.000Z,1899-12-31T00:13:54.000Z,female,37,Kwazulu Natal,adults,Morning,834
+771802,Boomerang,2016-01-02T12:42:00.000Z,1899-12-31T00:09:55.000Z,male,43,Western Cape,adults,Afternoon,595
+771802,Supersport Live Events,2016-01-30T14:11:00.000Z,1899-12-31T01:23:54.000Z,male,43,Western Cape,adults,Afternoon,5034
+771802,CNN,2016-01-01T11:25:00.000Z,1899-12-31T00:00:21.000Z,male,43,Western Cape,adults,Morning,21
+771802,Supersport Live Events,2016-01-08T14:50:00.000Z,1899-12-31T00:06:06.000Z,male,43,Western Cape,adults,Afternoon,366
+771802,CNN,2016-01-01T02:37:00.000Z,1899-12-31T00:01:06.000Z,male,43,Western Cape,adults,Night,66
+771802,Supersport Live Events,2016-02-12T16:51:00.000Z,1899-12-31T01:19:52.000Z,male,43,Western Cape,adults,Afternoon,4792
+808941,SuperSport Blitz,2016-03-01T00:30:00.000Z,1899-12-31T00:00:32.000Z,male,36,Western Cape,adults,Night,32
+600713,Channel O,2016-01-01T14:32:00.000Z,1899-12-31T00:47:18.000Z,male,31,Kwazulu Natal,youth,Afternoon,2838
+600713,Channel O,2016-01-13T14:27:00.000Z,1899-12-31T00:00:27.000Z,male,31,Kwazulu Natal,youth,Afternoon,27
+2407123,Boomerang,2016-03-14T07:40:00.000Z,1899-12-31T00:00:44.000Z,male,24,Mpumalanga,youth,Morning,44
+2407123,Cartoon Network,2016-03-08T21:04:00.000Z,1899-12-31T00:08:40.000Z,male,24,Mpumalanga,youth,Night,520
+2407123,ICC Cricket World Cup 2011,2016-03-06T09:48:00.000Z,1899-12-31T00:00:06.000Z,male,24,Mpumalanga,youth,Morning,6
+939600,Africa Magic,2016-03-19T02:07:00.000Z,1899-12-31T00:00:14.000Z,male,31,Gauteng,youth,Night,14
+939600,ICC Cricket World Cup 2011,2016-03-20T14:34:00.000Z,1899-12-31T00:00:42.000Z,male,31,Gauteng,youth,Afternoon,42
+939600,Supersport Live Events,2016-03-20T15:36:00.000Z,1899-12-31T00:01:14.000Z,male,31,Gauteng,youth,Afternoon,74
+939602,Channel O,2016-03-22T16:45:00.000Z,1899-12-31T00:15:03.000Z,male,18,Eastern Cape,youth,Afternoon,903
+939602,Cartoon Network,2016-03-18T20:38:00.000Z,1899-12-31T00:00:00.000Z,male,18,Eastern Cape,youth,Evening,0
+939602,Supersport Live Events,2016-03-18T08:19:00.000Z,1899-12-31T00:00:12.000Z,male,18,Eastern Cape,youth,Morning,12
+939602,Cartoon Network,2016-03-18T20:05:00.000Z,1899-12-31T00:00:11.000Z,male,18,Eastern Cape,youth,Evening,11
+939602,Cartoon Network,2016-03-20T12:27:00.000Z,1899-12-31T00:00:49.000Z,male,18,Eastern Cape,youth,Afternoon,49
+939602,ICC Cricket World Cup 2011,2016-03-28T13:33:00.000Z,1899-12-31T00:01:46.000Z,male,18,Eastern Cape,youth,Afternoon,106
+939602,Channel O,2016-03-28T13:46:00.000Z,1899-12-31T00:05:00.000Z,male,18,Eastern Cape,youth,Afternoon,300
+939602,Channel O,2016-03-25T04:46:00.000Z,1899-12-31T00:45:00.000Z,male,18,Eastern Cape,youth,Night,2700
+939602,Africa Magic,2016-03-25T04:26:00.000Z,1899-12-31T00:03:32.000Z,male,18,Eastern Cape,youth,Night,212
+939602,Channel O,2016-03-29T09:28:00.000Z,1899-12-31T00:04:30.000Z,male,18,Eastern Cape,youth,Morning,270
+939602,Africa Magic,2016-03-21T16:36:00.000Z,1899-12-31T00:02:07.000Z,male,18,Eastern Cape,youth,Afternoon,127
+866315,Boomerang,2016-03-17T22:32:00.000Z,1899-12-31T00:00:35.000Z,male,35,Gauteng,youth,Night,35
+939603,ICC Cricket World Cup 2011,2016-03-30T08:47:00.000Z,1899-12-31T00:34:22.000Z,male,30,Limpopo,youth,Morning,2062
+808945,Break in transmission,2016-03-01T19:19:00.000Z,1899-12-31T00:00:58.000Z,male,43,Western Cape,adults,Evening,58
+301011,SuperSport Blitz,2016-01-08T17:03:00.000Z,1899-12-31T00:01:08.000Z,male,47,North West,adults,Evening,68
+831720,ICC Cricket World Cup 2011,2016-03-01T15:04:00.000Z,1899-12-31T00:04:16.000Z,male,29,Western Cape,youth,Afternoon,256
+831720,ICC Cricket World Cup 2011,2016-03-01T14:59:00.000Z,1899-12-31T00:10:10.000Z,male,29,Western Cape,youth,Afternoon,610
+831721,Channel O,2016-03-02T19:29:00.000Z,1899-12-31T00:04:39.000Z,male,22,Limpopo,youth,Evening,279
+831721,SawSee,2016-03-02T19:33:00.000Z,1899-12-31T00:02:05.000Z,male,22,Limpopo,youth,Evening,125
+895195,Trace TV,2016-03-23T19:06:00.000Z,1899-12-31T00:07:48.000Z,male,21,Limpopo,youth,Evening,468
+1289864,Trace TV,2016-01-26T07:40:00.000Z,1899-12-31T00:00:00.000Z,male,26,Kwazulu Natal,youth,Morning,0
+808948,SuperSport Blitz,2016-02-11T05:04:00.000Z,1899-12-31T00:02:00.000Z,female,43,Western Cape,adults,Morning,120
+808948,Channel O,2016-02-18T03:26:00.000Z,1899-12-31T00:00:12.000Z,female,43,Western Cape,adults,Night,12
+808948,Channel O,2016-02-18T13:46:00.000Z,1899-12-31T00:00:57.000Z,female,43,Western Cape,adults,Afternoon,57
+808948,Channel O,2016-02-24T09:36:00.000Z,1899-12-31T00:01:00.000Z,female,43,Western Cape,adults,Morning,60
+808948,Trace TV,2016-03-18T11:42:00.000Z,1899-12-31T00:01:24.000Z,female,43,Western Cape,adults,Morning,84
+808948,Channel O,2016-03-18T11:55:00.000Z,1899-12-31T00:29:21.000Z,female,43,Western Cape,adults,Morning,1761
+808948,Channel O,2016-02-10T19:46:00.000Z,1899-12-31T00:00:27.000Z,female,43,Western Cape,adults,Evening,27
+808948,Channel O,2016-03-20T15:49:00.000Z,1899-12-31T00:00:18.000Z,female,43,Western Cape,adults,Afternoon,18
+808948,ICC Cricket World Cup 2011,2016-02-23T11:18:00.000Z,1899-12-31T00:14:44.000Z,female,43,Western Cape,adults,Morning,884
+808948,Channel O,2016-02-13T01:05:00.000Z,1899-12-31T00:01:42.000Z,female,43,Western Cape,adults,Night,102
+779395,Cartoon Network,2016-02-14T12:01:00.000Z,1899-12-31T00:02:55.000Z,male,23,Western Cape,youth,Afternoon,175
+779395,Trace TV,2016-02-10T14:07:00.000Z,1899-12-31T00:16:48.000Z,male,23,Western Cape,youth,Afternoon,1008
+904090,Boomerang,2016-03-23T17:33:00.000Z,1899-12-31T00:00:24.000Z,male,25,Kwazulu Natal,youth,Evening,24
+1106115,Africa Magic,2016-01-11T16:06:00.000Z,1899-12-31T00:06:25.500Z,female,26,Western Cape,youth,Afternoon,385
+1106115,Trace TV,2016-01-11T15:33:00.000Z,1899-12-31T00:05:57.000Z,female,26,Western Cape,youth,Afternoon,357
+820361,Supersport Live Events,2016-03-05T17:29:00.000Z,1899-12-31T00:02:48.000Z,male,28,Mpumalanga,youth,Evening,168
+820361,Supersport Live Events,2016-03-20T17:58:00.000Z,1899-12-31T00:02:12.000Z,male,28,Mpumalanga,youth,Evening,132
+820361,SuperSport Blitz,2016-02-27T12:54:00.000Z,1899-12-31T00:08:26.000Z,male,28,Mpumalanga,youth,Afternoon,506
+820361,Supersport Live Events,2016-02-27T13:14:00.000Z,1899-12-31T00:00:20.000Z,male,28,Mpumalanga,youth,Afternoon,20
+820361,Supersport Live Events,2016-02-27T16:06:00.000Z,1899-12-31T00:00:08.000Z,male,28,Mpumalanga,youth,Afternoon,8
+820361,Cartoon Network,2016-03-03T06:11:00.000Z,1899-12-31T00:00:06.000Z,male,28,Mpumalanga,youth,Morning,6
+771816,SawSee,2016-01-01T06:59:00.000Z,1899-12-31T00:01:19.000Z,male,31,Gauteng,youth,Morning,79
+771816,Channel O,2016-01-01T07:02:00.000Z,1899-12-31T00:00:39.000Z,male,31,Gauteng,youth,Morning,39
+771816,Trace TV,2016-01-01T17:29:00.000Z,1899-12-31T00:01:57.000Z,male,31,Gauteng,youth,Evening,117
+771816,Cartoon Network,2016-03-23T11:09:00.000Z,1899-12-31T00:01:03.000Z,male,31,Gauteng,youth,Morning,63
+771816,Trace TV,2016-02-06T19:26:00.000Z,1899-12-31T00:01:15.000Z,male,31,Gauteng,youth,Evening,75
+771816,Trace TV,2016-02-27T09:32:00.000Z,1899-12-31T00:00:00.000Z,male,31,Gauteng,youth,Morning,0
+771816,Trace TV,2016-03-07T03:54:00.000Z,1899-12-31T00:01:57.000Z,male,31,Gauteng,youth,Night,117
+771816,Cartoon Network,2016-03-01T06:27:00.000Z,1899-12-31T00:04:14.000Z,male,31,Gauteng,youth,Morning,254
+788649,SuperSport Blitz,2016-01-15T16:12:00.000Z,1899-12-31T00:02:38.000Z,male,39,Gauteng,adults,Afternoon,158
+939606,Cartoon Network,2016-03-30T05:53:00.000Z,1899-12-31T00:00:44.000Z,male,38,Western Cape,adults,Morning,44
+831728,SuperSport Blitz,2016-03-12T20:45:00.000Z,1899-12-31T00:01:24.000Z,female,35,Eastern Cape,youth,Evening,84
+939607,ICC Cricket World Cup 2011,2016-03-30T11:56:00.000Z,1899-12-31T00:00:46.000Z,male,29,Limpopo,youth,Morning,46
+808949,Africa Magic,2016-02-20T06:53:00.000Z,1899-12-31T00:03:40.500Z,female,35,Kwazulu Natal,youth,Morning,220
+808949,Africa Magic,2016-02-15T17:52:00.000Z,1899-12-31T00:00:29.500Z,female,35,Kwazulu Natal,youth,Evening,29
+808949,Africa Magic,2016-03-02T10:21:00.000Z,1899-12-31T00:00:23.000Z,female,35,Kwazulu Natal,youth,Morning,23
+808949,Africa Magic,2016-02-14T07:56:00.000Z,1899-12-31T00:00:25.000Z,female,35,Kwazulu Natal,youth,Morning,25
+808949,Boomerang,2016-03-09T08:24:00.000Z,1899-12-31T00:01:10.000Z,female,35,Kwazulu Natal,youth,Morning,70
+806460,Boomerang,2016-02-13T19:58:00.000Z,1899-12-31T00:00:00.000Z,male,39,Kwazulu Natal,adults,Evening,0
+460303,Cartoon Network,2016-01-22T16:30:00.000Z,1899-12-31T00:01:15.000Z,None,0,None,children,Afternoon,75
+808950,Boomerang,2016-02-18T13:25:00.000Z,1899-12-31T00:02:37.000Z,male,18,Free State,youth,Afternoon,157
+808950,Channel O,2016-02-18T13:02:00.000Z,1899-12-31T00:01:06.000Z,male,18,Free State,youth,Afternoon,66
+808950,Boomerang,2016-02-18T05:57:00.000Z,1899-12-31T00:00:04.000Z,male,18,Free State,youth,Morning,4
+808950,Supersport Live Events,2016-02-20T14:29:00.000Z,1899-12-31T00:02:54.000Z,male,18,Free State,youth,Afternoon,174
+808950,SuperSport Blitz,2016-03-03T18:08:00.000Z,1899-12-31T00:05:38.000Z,male,18,Free State,youth,Evening,338
+808950,Channel O,2016-02-18T04:24:00.000Z,1899-12-31T00:02:15.000Z,male,18,Free State,youth,Night,135
+808950,Trace TV,2016-02-18T07:37:00.000Z,1899-12-31T00:00:12.000Z,male,18,Free State,youth,Morning,12
+808950,Channel O,2016-02-18T14:49:00.000Z,1899-12-31T00:00:51.000Z,male,18,Free State,youth,Afternoon,51
+808950,Supersport Live Events,2016-03-06T14:41:00.000Z,1899-12-31T00:00:16.000Z,male,18,Free State,youth,Afternoon,16
+808950,SuperSport Blitz,2016-03-03T04:23:00.000Z,1899-12-31T00:11:20.000Z,male,18,Free State,youth,Night,680
+808950,SuperSport Blitz,2016-03-27T10:37:00.000Z,1899-12-31T00:00:22.000Z,male,18,Free State,youth,Morning,22
+892644,Boomerang,2016-03-21T07:49:00.000Z,1899-12-31T00:04:54.000Z,male,18,Gauteng,youth,Morning,294
+925955,ICC Cricket World Cup 2011,2016-03-30T08:40:00.000Z,1899-12-31T00:06:00.000Z,male,23,Gauteng,youth,Morning,360
+771823,Channel O,2016-02-06T11:10:00.000Z,1899-12-31T00:01:15.000Z,male,26,Western Cape,youth,Morning,75
+853642,E! Entertainment,2016-03-06T21:22:00.000Z,1899-12-31T00:00:00.000Z,male,24,Kwazulu Natal,youth,Night,0
+904101,Trace TV,2016-03-28T20:22:00.000Z,1899-12-31T00:01:06.000Z,male,29,Gauteng,youth,Evening,66
+904101,E! Entertainment,2016-03-24T22:59:00.000Z,1899-12-31T00:00:00.000Z,male,29,Gauteng,youth,Night,0
+904101,Africa Magic,2016-03-26T13:21:00.000Z,1899-12-31T00:01:23.000Z,male,29,Gauteng,youth,Afternoon,83
+831732,Trace TV,2016-03-03T11:22:00.000Z,1899-12-31T00:10:45.000Z,male,22,Gauteng,youth,Morning,645
+831732,Cartoon Network,2016-03-08T17:51:00.000Z,1899-12-31T00:01:23.000Z,male,22,Gauteng,youth,Evening,83
+831732,ICC Cricket World Cup 2011,2016-03-15T22:32:00.000Z,1899-12-31T00:00:20.000Z,male,22,Gauteng,youth,Night,20
+1106137,E! Entertainment,2016-01-08T21:02:00.000Z,1899-12-31T00:02:32.000Z,male,39,Western Cape,adults,Night,152
+1106137,Cartoon Network,2016-01-08T21:13:00.000Z,1899-12-31T00:00:00.000Z,male,39,Western Cape,adults,Night,0
+865372,Boomerang,2016-03-28T06:07:00.000Z,1899-12-31T00:01:03.000Z,female,29,Kwazulu Natal,youth,Morning,63
+865372,Boomerang,2016-03-27T05:10:00.000Z,1899-12-31T00:07:27.000Z,female,29,Kwazulu Natal,youth,Morning,447
+2255518,Supersport Live Events,2016-02-05T10:14:00.000Z,1899-12-31T00:01:06.000Z,male,56,Gauteng,adults,Morning,66
+2255518,CNN,2016-02-26T13:14:00.000Z,1899-12-31T00:00:36.000Z,male,56,Gauteng,adults,Afternoon,36
+2255518,Break in transmission,2016-02-15T05:24:00.000Z,1899-12-31T00:00:21.000Z,male,56,Gauteng,adults,Morning,21
+2255518,ICC Cricket World Cup 2011,2016-02-24T09:54:00.000Z,1899-12-31T00:00:00.000Z,male,56,Gauteng,adults,Morning,0
+2255518,Supersport Live Events,2016-01-12T15:23:00.000Z,1899-12-31T00:01:02.000Z,male,56,Gauteng,adults,Afternoon,62
+2255518,Supersport Live Events,2016-01-28T09:45:00.000Z,1899-12-31T00:02:06.000Z,male,56,Gauteng,adults,Morning,126
+2255518,Channel O,2016-01-03T14:58:00.000Z,1899-12-31T00:00:00.000Z,male,56,Gauteng,adults,Afternoon,0
+779410,Cartoon Network,2016-01-21T17:19:00.000Z,1899-12-31T00:04:11.000Z,female,26,Gauteng,youth,Evening,251
+779410,Trace TV,2016-02-03T12:04:00.000Z,1899-12-31T00:02:36.000Z,female,26,Gauteng,youth,Afternoon,156
+771830,Trace TV,2016-01-01T14:43:00.000Z,1899-12-31T00:00:30.000Z,male,49,Gauteng,adults,Afternoon,30
+507286,Trace TV,2016-01-02T15:59:00.000Z,1899-12-31T01:28:33.000Z,female,11,Eastern Cape,children,Afternoon,5313
+507286,Cartoon Network,2016-01-04T17:01:00.000Z,1899-12-31T00:00:02.000Z,female,11,Eastern Cape,children,Evening,2
+507286,Boomerang,2016-01-04T07:31:00.000Z,1899-12-31T00:05:36.000Z,female,11,Eastern Cape,children,Morning,336
+507286,Cartoon Network,2016-01-04T10:21:00.000Z,1899-12-31T00:03:45.000Z,female,11,Eastern Cape,children,Morning,225
+507286,CNN,2016-01-01T05:32:00.000Z,1899-12-31T00:00:04.000Z,female,11,Eastern Cape,children,Morning,4
+507286,Boomerang,2016-01-03T15:00:00.000Z,1899-12-31T00:49:11.000Z,female,11,Eastern Cape,children,Afternoon,2951
+1293309,ICC Cricket World Cup 2011,2016-03-23T11:03:00.000Z,1899-12-31T00:00:00.000Z,male,30,Limpopo,youth,Morning,0
+939619,M-Net,2016-03-13T10:57:00.000Z,1899-12-31T00:00:21.000Z,male,50,Western Cape,adults,Morning,21
+939619,SuperSport Blitz,2016-03-13T08:55:00.000Z,1899-12-31T00:01:08.000Z,male,50,Western Cape,adults,Morning,68
+988056,E! Entertainment,2016-03-31T17:35:00.000Z,1899-12-31T00:00:00.000Z,male,37,Western Cape,adults,Evening,0
+18031,Supersport Live Events,2016-01-28T18:49:00.000Z,1899-12-31T00:00:42.000Z,female,37,Gauteng,adults,Evening,42
+18031,CNN,2016-01-06T23:00:00.000Z,1899-12-31T00:24:51.000Z,female,37,Gauteng,adults,Night,1491
+808958,SuperSport Blitz,2016-02-21T17:13:00.000Z,1899-12-31T00:08:36.000Z,male,25,Gauteng,youth,Evening,516
+808958,Trace TV,2016-02-20T13:26:00.000Z,1899-12-31T00:00:39.000Z,male,25,Gauteng,youth,Afternoon,39
+808958,Channel O,2016-02-20T17:14:00.000Z,1899-12-31T00:00:27.000Z,male,25,Gauteng,youth,Evening,27
+808958,Boomerang,2016-03-02T09:10:00.000Z,1899-12-31T00:09:10.000Z,male,25,Gauteng,youth,Morning,550
+808958,Cartoon Network,2016-02-21T13:56:00.000Z,1899-12-31T00:17:16.000Z,male,25,Gauteng,youth,Afternoon,1036
+808958,Trace TV,2016-02-24T18:21:00.000Z,1899-12-31T00:14:51.000Z,male,25,Gauteng,youth,Evening,891
+808958,Cartoon Network,2016-02-24T10:38:00.000Z,1899-12-31T00:00:12.000Z,male,25,Gauteng,youth,Morning,12
+808958,Boomerang,2016-03-01T18:49:00.000Z,1899-12-31T00:00:40.000Z,male,25,Gauteng,youth,Evening,40
+840343,Trace TV,2016-03-05T18:37:00.000Z,1899-12-31T00:05:18.000Z,male,36,Limpopo,adults,Evening,318
+1106156,SuperSport Blitz,2016-03-31T20:16:00.000Z,1899-12-31T00:05:06.000Z,male,18,Mpumalanga,youth,Evening,306
+793616,CNN,2016-01-25T04:11:00.000Z,1899-12-31T00:00:02.000Z,male,29,Gauteng,youth,Night,2
+793616,Africa Magic,2016-01-24T14:16:00.000Z,1899-12-31T00:03:34.500Z,male,29,Gauteng,youth,Afternoon,214
+939622,Boomerang,2016-03-27T23:23:00.000Z,1899-12-31T00:00:04.000Z,male,38,Mpumalanga,adults,Night,4
+939622,kykNET,2016-03-28T13:14:00.000Z,1899-12-31T00:02:06.000Z,male,38,Mpumalanga,adults,Afternoon,126
+939622,CNN,2016-03-30T13:29:00.000Z,1899-12-31T00:00:19.000Z,male,38,Mpumalanga,adults,Afternoon,19
+868925,SuperSport Blitz,2016-03-08T10:27:00.000Z,1899-12-31T00:00:20.000Z,male,28,Gauteng,youth,Morning,20
+764342,SuperSport Blitz,2016-02-02T06:11:00.000Z,1899-12-31T00:03:48.000Z,male,38,Eastern Cape,adults,Morning,228
+808961,Boomerang,2016-02-20T01:51:00.000Z,1899-12-31T00:24:00.000Z,male,27,Gauteng,youth,Night,1440
+808961,Boomerang,2016-02-22T16:24:00.000Z,1899-12-31T00:06:59.000Z,male,27,Gauteng,youth,Afternoon,419
+853655,SawSee,2016-02-16T15:45:00.000Z,1899-12-31T00:00:00.000Z,male,20,Gauteng,youth,Afternoon,0
+939624,Trace TV,2016-03-22T18:50:00.000Z,1899-12-31T00:01:21.000Z,male,19,Gauteng,youth,Evening,81
+939624,Vuzu,2016-03-20T10:36:00.000Z,1899-12-31T00:00:53.000Z,male,19,Gauteng,youth,Morning,53
+939624,Vuzu,2016-03-20T10:44:00.000Z,1899-12-31T00:02:09.000Z,male,19,Gauteng,youth,Morning,129
+939624,Boomerang,2016-03-31T21:12:00.000Z,1899-12-31T00:00:00.000Z,male,19,Gauteng,youth,Night,0
+939624,Trace TV,2016-03-31T21:22:00.000Z,1899-12-31T00:59:00.000Z,male,19,Gauteng,youth,Night,3540
+939624,Vuzu,2016-03-16T17:07:00.000Z,1899-12-31T00:00:15.000Z,male,19,Gauteng,youth,Evening,15
+2203312,Vuzu,2016-03-31T20:46:00.000Z,1899-12-31T00:00:22.500Z,male,54,Western Cape,adults,Evening,22
+808965,SuperSport Blitz,2016-02-18T08:55:00.000Z,1899-12-31T00:00:10.000Z,male,36,Western Cape,adults,Morning,10
+808965,Supersport Live Events,2016-02-15T19:55:00.000Z,1899-12-31T00:00:30.000Z,male,36,Western Cape,adults,Evening,30
+808965,ICC Cricket World Cup 2011,2016-02-24T12:14:00.000Z,1899-12-31T00:04:04.000Z,male,36,Western Cape,adults,Afternoon,244
+808965,Supersport Live Events,2016-02-18T06:44:00.000Z,1899-12-31T00:01:00.000Z,male,36,Western Cape,adults,Morning,60
+808965,Supersport Live Events,2016-02-06T06:42:00.000Z,1899-12-31T00:02:12.000Z,male,36,Western Cape,adults,Morning,132
+808965,ICC Cricket World Cup 2011,2016-03-06T09:16:00.000Z,1899-12-31T00:19:10.000Z,male,36,Western Cape,adults,Morning,1150
+808965,E! Entertainment,2016-02-09T18:54:00.000Z,1899-12-31T00:01:12.000Z,male,36,Western Cape,adults,Evening,72
+788672,Boomerang,2016-02-11T19:21:00.000Z,1899-12-31T00:00:19.000Z,male,39,Gauteng,adults,Evening,19
+788672,Africa Magic,2016-01-19T15:29:00.000Z,1899-12-31T00:00:24.000Z,male,39,Gauteng,adults,Afternoon,24
+808966,Supersport Live Events,2016-03-13T10:06:00.000Z,1899-12-31T00:00:38.000Z,male,21,Free State,youth,Morning,38
+808966,Supersport Live Events,2016-03-13T16:22:00.000Z,1899-12-31T00:10:02.000Z,male,21,Free State,youth,Afternoon,602
+808966,Supersport Live Events,2016-01-19T20:29:00.000Z,1899-12-31T00:34:06.000Z,male,21,Free State,youth,Evening,2046
+808966,ICC Cricket World Cup 2011,2016-03-23T08:40:00.000Z,1899-12-31T01:16:40.000Z,male,21,Free State,youth,Morning,4600
+808966,Boomerang,2016-03-19T20:17:00.000Z,1899-12-31T00:37:25.000Z,male,21,Free State,youth,Evening,2245
+808966,Africa Magic,2016-01-27T19:25:00.000Z,1899-12-31T00:00:23.000Z,male,21,Free State,youth,Evening,23
+808966,Africa Magic,2016-03-20T13:54:00.000Z,1899-12-31T00:00:53.000Z,male,21,Free State,youth,Afternoon,53
+808966,Supersport Live Events,2016-03-20T20:18:00.000Z,1899-12-31T00:00:00.000Z,male,21,Free State,youth,Evening,0
+808966,Supersport Live Events,2016-03-20T14:40:00.000Z,1899-12-31T00:00:00.000Z,male,21,Free State,youth,Afternoon,0
+808966,SuperSport Blitz,2016-02-23T04:06:00.000Z,1899-12-31T01:48:38.000Z,male,21,Free State,youth,Night,6518
+808966,SuperSport Blitz,2016-03-24T04:14:00.000Z,1899-12-31T00:00:00.000Z,male,21,Free State,youth,Night,0
+633678,Channel O,2016-02-11T19:05:00.000Z,1899-12-31T00:00:00.000Z,None,0,None,children,Evening,0
+786099,E! Entertainment,2016-02-09T14:10:00.000Z,1899-12-31T00:00:48.000Z,male,30,Gauteng,youth,Afternoon,48
+808969,Supersport Live Events,2016-03-03T08:06:00.000Z,1899-12-31T00:00:42.000Z,male,18,Gauteng,youth,Morning,42
+808969,Trace TV,2016-03-08T10:47:00.000Z,1899-12-31T00:02:03.000Z,male,18,Gauteng,youth,Morning,123
+808969,Supersport Live Events,2016-01-12T19:58:00.000Z,1899-12-31T00:55:44.000Z,male,18,Gauteng,youth,Evening,3344
+808969,Trace TV,2016-01-13T16:40:00.000Z,1899-12-31T00:01:24.000Z,male,18,Gauteng,youth,Afternoon,84
+808969,Cartoon Network,2016-01-11T20:00:00.000Z,1899-12-31T00:00:32.000Z,male,18,Gauteng,youth,Evening,32
+859311,Boomerang,2016-03-08T19:53:00.000Z,1899-12-31T00:14:20.000Z,male,21,Kwazulu Natal,youth,Evening,860
+859311,Trace TV,2016-03-10T18:00:00.000Z,1899-12-31T00:24:57.000Z,male,21,Kwazulu Natal,youth,Evening,1497
+859311,Channel O,2016-03-10T19:04:00.000Z,1899-12-31T00:23:36.000Z,male,21,Kwazulu Natal,youth,Evening,1416
+808971,Boomerang,2016-02-18T18:28:00.000Z,1899-12-31T00:00:57.000Z,male,36,Gauteng,adults,Evening,57
+808971,Boomerang,2016-02-07T13:41:00.000Z,1899-12-31T00:01:06.000Z,male,36,Gauteng,adults,Afternoon,66
+808971,Boomerang,2016-02-07T20:15:00.000Z,1899-12-31T00:04:53.000Z,male,36,Gauteng,adults,Evening,293
+808971,Channel O,2016-01-26T14:16:00.000Z,1899-12-31T00:01:36.000Z,male,36,Gauteng,adults,Afternoon,96
+808971,Boomerang,2016-03-30T19:19:00.000Z,1899-12-31T00:00:00.000Z,male,36,Gauteng,adults,Evening,0
+808971,Boomerang,2016-03-25T14:23:00.000Z,1899-12-31T00:07:27.000Z,male,36,Gauteng,adults,Afternoon,447
+830980,Boomerang,2016-03-17T10:13:00.000Z,1899-12-31T00:03:10.000Z,male,42,Kwazulu Natal,adults,Morning,190
+792729,Trace TV,2016-03-30T17:50:00.000Z,1899-12-31T00:02:00.000Z,None,0,None,children,Evening,120
+820387,SuperSport Blitz,2016-01-27T13:54:00.000Z,1899-12-31T00:12:08.000Z,male,15,Limpopo,children,Afternoon,728
+820387,Cartoon Network,2016-01-27T09:52:00.000Z,1899-12-31T00:01:27.000Z,male,15,Limpopo,children,Morning,87
+820387,Channel O,2016-01-25T10:07:00.000Z,1899-12-31T00:00:57.000Z,male,15,Limpopo,children,Morning,57
+820387,SuperSport Blitz,2016-01-26T19:30:00.000Z,1899-12-31T00:07:30.000Z,male,15,Limpopo,children,Evening,450
+892515,SuperSport Blitz,2016-03-23T07:31:00.000Z,1899-12-31T00:00:10.000Z,male,34,Western Cape,youth,Morning,10
+892515,Supersport Live Events,2016-03-18T11:13:00.000Z,1899-12-31T00:10:28.000Z,male,34,Western Cape,youth,Morning,628
+2203323,ICC Cricket World Cup 2011,2016-02-24T14:56:00.000Z,1899-12-31T00:04:06.000Z,male,43,Free State,adults,Afternoon,246
+2203323,Channel O,2016-02-24T19:43:00.000Z,1899-12-31T00:00:27.000Z,male,43,Free State,adults,Evening,27
+2203323,Africa Magic,2016-02-27T09:07:00.000Z,1899-12-31T00:05:07.000Z,male,43,Free State,adults,Morning,307
+808976,SuperSport Blitz,2016-03-02T15:30:00.000Z,1899-12-31T00:18:34.000Z,male,46,Gauteng,adults,Afternoon,1114
+866192,SawSee,2016-03-23T20:07:00.000Z,1899-12-31T00:00:37.000Z,None,0,None,children,Evening,37
+866192,Trace TV,2016-03-26T04:50:00.000Z,1899-12-31T00:04:42.000Z,None,0,None,children,Night,282
+866192,Vuzu,2016-03-26T20:57:00.000Z,1899-12-31T00:00:00.000Z,None,0,None,children,Evening,0
+930014,ICC Cricket World Cup 2011,2016-03-30T13:51:00.000Z,1899-12-31T00:05:28.000Z,male,33,Gauteng,youth,Afternoon,328
+930015,kykNET,2016-03-31T08:09:00.000Z,1899-12-31T00:08:21.000Z,male,19,Western Cape,youth,Morning,501
+930015,ICC Cricket World Cup 2011,2016-03-30T15:22:00.000Z,1899-12-31T01:25:30.000Z,male,19,Western Cape,youth,Afternoon,5130
+930015,ICC Cricket World Cup 2011,2016-03-29T21:33:00.000Z,1899-12-31T00:01:18.000Z,male,19,Western Cape,youth,Night,78
+1297586,SuperSport Blitz,2016-03-09T04:51:00.000Z,1899-12-31T00:00:00.000Z,male,53,Kwazulu Natal,adults,Night,0
+866195,MK,2016-03-12T00:19:00.000Z,1899-12-31T00:01:11.000Z,male,32,Eastern Cape,youth,Night,71
+820398,Supersport Live Events,2016-02-26T21:25:00.000Z,1899-12-31T00:00:00.000Z,male,28,Kwazulu Natal,youth,Night,0
+820398,Supersport Live Events,2016-02-26T21:47:00.000Z,1899-12-31T00:00:52.000Z,male,28,Kwazulu Natal,youth,Night,52
+820398,Africa Magic,2016-03-05T22:03:00.000Z,1899-12-31T00:10:58.500Z,male,28,Kwazulu Natal,youth,Night,658
+820398,Channel O,2016-03-01T05:01:00.000Z,1899-12-31T00:07:39.000Z,male,28,Kwazulu Natal,youth,Morning,459
+803542,Trace TV,2016-03-31T14:52:00.000Z,1899-12-31T00:29:03.000Z,male,36,Kwazulu Natal,adults,Afternoon,1743
+593622,Trace TV,2016-01-21T12:05:00.000Z,1899-12-31T00:09:00.000Z,female,27,Gauteng,youth,Afternoon,540
+831755,Cartoon Network,2016-03-15T13:31:00.000Z,1899-12-31T00:00:00.000Z,male,30,Gauteng,youth,Afternoon,0
+831755,E! Entertainment,2016-03-01T16:03:00.000Z,1899-12-31T00:00:32.000Z,male,30,Gauteng,youth,Afternoon,32
+771848,Break in transmission,2016-02-11T11:39:00.000Z,1899-12-31T00:00:12.000Z,male,28,Gauteng,youth,Morning,12
+771848,Boomerang,2016-02-10T19:55:00.000Z,1899-12-31T00:09:04.000Z,male,28,Gauteng,youth,Evening,544
+771848,Boomerang,2016-01-01T18:54:00.000Z,1899-12-31T00:01:50.000Z,male,28,Gauteng,youth,Evening,110
+771848,Supersport Live Events,2016-01-22T13:02:00.000Z,1899-12-31T00:02:04.000Z,male,28,Gauteng,youth,Afternoon,124
+771848,Supersport Live Events,2016-01-18T12:43:00.000Z,1899-12-31T00:01:26.000Z,male,28,Gauteng,youth,Afternoon,86
+764355,Channel O,2016-01-22T14:42:00.000Z,1899-12-31T00:00:09.000Z,male,24,Gauteng,youth,Afternoon,9
+2255559,Supersport Live Events,2016-03-28T13:22:00.000Z,1899-12-31T00:01:08.000Z,male,27,Mpumalanga,youth,Afternoon,68
+2255559,M-Net,2016-03-30T18:57:00.000Z,1899-12-31T00:00:38.000Z,male,27,Mpumalanga,youth,Evening,38
+919180,Supersport Live Events,2016-03-26T09:08:00.000Z,1899-12-31T00:06:00.000Z,male,36,Western Cape,adults,Morning,360
+771849,Africa Magic,2016-02-19T21:17:00.000Z,1899-12-31T00:07:53.500Z,male,55,Gauteng,adults,Night,473
+771849,SawSee,2016-02-19T21:22:00.000Z,1899-12-31T00:01:42.000Z,male,55,Gauteng,adults,Night,102
+771849,Supersport Live Events,2016-02-06T15:00:00.000Z,1899-12-31T00:00:24.000Z,male,55,Gauteng,adults,Afternoon,24
+808979,E! Entertainment,2016-02-22T19:30:00.000Z,1899-12-31T00:04:52.000Z,female,26,Free State,youth,Evening,292
+866197,Trace TV,2016-03-11T17:13:00.000Z,1899-12-31T02:59:03.000Z,female,10,Kwazulu Natal,children,Evening,10743
+777084,Supersport Live Events,2016-02-06T16:08:00.000Z,1899-12-31T00:00:00.000Z,male,28,North West,youth,Afternoon,0
+621621,SawSee,2016-01-17T15:21:00.000Z,1899-12-31T00:00:28.000Z,male,23,Gauteng,youth,Afternoon,28
+808983,CNN,2016-02-15T20:41:00.000Z,1899-12-31T00:02:01.000Z,male,45,Western Cape,adults,Evening,121
+772142,Boomerang,2016-03-10T20:10:00.000Z,1899-12-31T00:01:26.000Z,male,32,Western Cape,youth,Evening,86
+808983,SuperSport Live Events,2016-02-13T19:34:00.000Z,1899-12-31T00:00:00.000Z,male,45,Western Cape,adults,Evening,0
+771003,ICC Cricket World Cup 2011,2016-02-26T11:17:00.000Z,1899-12-31T00:01:38.000Z,male,31,Western Cape,youth,Morning,98
+771003,Cartoon Network,2016-02-26T14:11:00.000Z,1899-12-31T00:01:28.000Z,male,31,Western Cape,youth,Afternoon,88
+771003,SawSee,2016-02-27T16:24:00.000Z,1899-12-31T00:00:42.000Z,male,31,Western Cape,youth,Afternoon,42
+808984,kykNET,2016-02-19T15:58:00.000Z,1899-12-31T00:01:57.000Z,male,42,Western Cape,adults,Afternoon,117
+771855,Africa Magic,2016-02-19T01:15:00.000Z,1899-12-31T00:08:34.500Z,female,45,North West,adults,Night,514
+733281,Trace TV,2016-01-26T16:09:00.000Z,1899-12-31T00:00:06.000Z,male,35,Gauteng,youth,Afternoon,6
+892523,Africa Magic,2016-03-18T13:20:00.000Z,1899-12-31T00:00:42.000Z,male,29,Limpopo,youth,Afternoon,42
+892523,Africa Magic,2016-03-19T11:08:00.000Z,1899-12-31T00:00:47.500Z,male,29,Limpopo,youth,Morning,47
+892523,ICC Cricket World Cup 2011,2016-03-16T10:37:00.000Z,1899-12-31T00:01:48.000Z,male,29,Limpopo,youth,Morning,108
+892523,Africa Magic,2016-03-27T11:01:00.000Z,1899-12-31T00:00:00.000Z,male,29,Limpopo,youth,Morning,0
+892523,Trace TV,2016-03-27T20:22:00.000Z,1899-12-31T00:55:00.000Z,male,29,Limpopo,youth,Evening,3300
+892523,Cartoon Network,2016-03-26T10:30:00.000Z,1899-12-31T00:01:16.000Z,male,29,Limpopo,youth,Morning,76
+892523,Trace TV,2016-03-21T05:30:00.000Z,1899-12-31T00:12:36.000Z,male,29,Limpopo,youth,Morning,756
+892523,Trace TV,2016-03-21T08:50:00.000Z,1899-12-31T00:05:36.000Z,male,29,Limpopo,youth,Morning,336
+892523,Africa Magic,2016-03-21T18:23:00.000Z,1899-12-31T00:01:27.500Z,male,29,Limpopo,youth,Evening,87
+771856,Trace TV,2016-02-06T09:28:00.000Z,1899-12-31T00:02:06.000Z,male,24,Kwazulu Natal,youth,Morning,126
+808988,CNN,2016-02-20T13:41:00.000Z,1899-12-31T00:00:21.000Z,male,34,Gauteng,youth,Afternoon,21
+808988,Supersport Live Events,2016-02-20T15:48:00.000Z,1899-12-31T00:05:06.000Z,male,34,Gauteng,youth,Afternoon,306
+808988,Channel O,2016-02-20T22:02:00.000Z,1899-12-31T00:05:09.000Z,male,34,Gauteng,youth,Night,309
+808988,CNN,2016-02-20T22:04:00.000Z,1899-12-31T00:00:09.000Z,male,34,Gauteng,youth,Night,9
+730254,Channel O,2016-01-21T09:02:00.000Z,1899-12-31T01:59:48.000Z,male,26,Gauteng,youth,Morning,7188
+771858,Supersport Live Events,2016-03-05T11:37:00.000Z,1899-12-31T00:01:46.000Z,male,27,Gauteng,youth,Morning,106
+866202,ICC Cricket World Cup 2011,2016-03-16T11:31:00.000Z,1899-12-31T00:02:12.000Z,male,24,Gauteng,youth,Morning,132
+808990,ICC Cricket World Cup 2011,2016-02-24T08:47:00.000Z,1899-12-31T00:00:58.000Z,male,39,Western Cape,adults,Morning,58
+2090526,Africa Magic,2016-02-21T18:18:00.000Z,1899-12-31T00:01:21.000Z,male,52,Mpumalanga,adults,Evening,81
+2090526,Africa Magic,2016-02-14T11:54:00.000Z,1899-12-31T00:00:36.000Z,male,52,Mpumalanga,adults,Morning,36
+2090526,Africa Magic,2016-03-24T01:41:00.000Z,1899-12-31T00:02:21.500Z,male,52,Mpumalanga,adults,Night,141
+2090526,Boomerang,2016-01-23T06:03:00.000Z,1899-12-31T00:49:27.000Z,male,52,Mpumalanga,adults,Morning,2967
+2090526,Africa Magic,2016-03-04T21:35:00.000Z,1899-12-31T00:32:29.000Z,male,52,Mpumalanga,adults,Night,1949
+2090526,Africa Magic,2016-01-30T11:41:00.000Z,1899-12-31T00:00:38.000Z,male,52,Mpumalanga,adults,Morning,38
+2090526,Africa Magic,2016-01-28T20:21:00.000Z,1899-12-31T00:10:41.500Z,male,52,Mpumalanga,adults,Evening,641
+2090526,Africa Magic,2016-01-17T07:44:00.000Z,1899-12-31T00:00:21.500Z,male,52,Mpumalanga,adults,Morning,21
+2090526,Boomerang,2016-03-07T10:18:00.000Z,1899-12-31T00:01:14.000Z,male,52,Mpumalanga,adults,Morning,74
+939659,Africa Magic,2016-03-19T19:09:00.000Z,1899-12-31T00:02:57.000Z,male,21,Limpopo,youth,Evening,177
+939659,SuperSport Blitz,2016-03-19T19:11:00.000Z,1899-12-31T00:01:08.000Z,male,21,Limpopo,youth,Evening,68
+939659,Trace TV,2016-03-31T17:51:00.000Z,1899-12-31T00:02:18.000Z,male,21,Limpopo,youth,Evening,138
+939659,Trace TV,2016-03-20T13:51:00.000Z,1899-12-31T00:32:21.000Z,male,21,Limpopo,youth,Afternoon,1941
+939659,Cartoon Network,2016-03-20T17:23:00.000Z,1899-12-31T00:07:27.000Z,male,21,Limpopo,youth,Evening,447
+939659,Africa Magic,2016-03-28T16:19:00.000Z,1899-12-31T00:01:46.500Z,male,21,Limpopo,youth,Afternoon,106
+939659,ICC Cricket World Cup 2011,2016-03-28T10:45:00.000Z,1899-12-31T00:00:00.000Z,male,21,Limpopo,youth,Morning,0
+939659,Supersport Live Events,2016-03-30T11:30:00.000Z,1899-12-31T00:00:30.000Z,male,21,Limpopo,youth,Morning,30
+939659,Channel O,2016-03-24T06:57:00.000Z,1899-12-31T00:06:06.000Z,male,21,Limpopo,youth,Morning,366
+939659,Channel O,2016-03-21T07:30:00.000Z,1899-12-31T00:07:45.000Z,male,21,Limpopo,youth,Morning,465
+778615,Channel O,2016-03-12T15:45:00.000Z,1899-12-31T00:03:45.000Z,None,0,None,children,Afternoon,225
+866205,Supersport Live Events,2016-03-14T08:49:00.000Z,1899-12-31T00:08:44.000Z,male,36,Gauteng,adults,Morning,524
+866205,ICC Cricket World Cup 2011,2016-03-15T09:50:00.000Z,1899-12-31T00:08:08.000Z,male,36,Gauteng,adults,Morning,488
+866205,ICC Cricket World Cup 2011,2016-03-12T16:05:00.000Z,1899-12-31T00:42:08.000Z,male,36,Gauteng,adults,Afternoon,2528
+771867,CNN,2016-02-05T05:40:00.000Z,1899-12-31T00:06:15.000Z,male,14,Gauteng,children,Morning,375
+771867,Trace TV,2016-03-01T22:04:00.000Z,1899-12-31T00:19:06.000Z,male,14,Gauteng,children,Night,1146
+771867,M-Net,2016-03-13T07:08:00.000Z,1899-12-31T00:05:12.000Z,male,14,Gauteng,children,Morning,312
+771867,Supersport Live Events,2016-03-13T21:05:00.000Z,1899-12-31T00:00:00.000Z,male,14,Gauteng,children,Night,0
+771867,SuperSport Blitz,2016-01-31T16:42:00.000Z,1899-12-31T00:00:22.000Z,male,14,Gauteng,children,Afternoon,22
+771867,CNN,2016-01-17T16:56:00.000Z,1899-12-31T00:00:42.000Z,male,14,Gauteng,children,Afternoon,42
+771867,Supersport Live Events,2016-01-22T14:14:00.000Z,1899-12-31T00:01:20.000Z,male,14,Gauteng,children,Afternoon,80
+771867,Africa Magic,2016-01-30T19:20:00.000Z,1899-12-31T00:01:23.000Z,male,14,Gauteng,children,Evening,83
+771867,Africa Magic,2016-01-18T16:12:00.000Z,1899-12-31T00:01:58.500Z,male,14,Gauteng,children,Afternoon,118
+771867,Africa Magic,2016-03-31T17:57:00.000Z,1899-12-31T00:00:56.000Z,male,14,Gauteng,children,Evening,56
+809337,Boomerang,2016-02-13T00:19:00.000Z,1899-12-31T00:04:16.000Z,male,21,Gauteng,youth,Night,256
+779442,DStv Events 1,2016-01-18T21:54:00.000Z,1899-12-31T00:00:00.000Z,female,31,Free State,youth,Night,0
+779442,Channel O,2016-01-18T22:04:00.000Z,1899-12-31T00:00:42.000Z,female,31,Free State,youth,Night,42
+779442,Channel O,2016-01-22T14:13:00.000Z,1899-12-31T00:10:03.000Z,female,31,Free State,youth,Afternoon,603
+939662,ICC Cricket World Cup 2011,2016-03-30T12:48:00.000Z,1899-12-31T00:02:10.000Z,male,23,Mpumalanga,youth,Afternoon,130
+2359724,ICC Cricket World Cup 2011,2016-02-21T09:10:00.000Z,1899-12-31T00:05:38.000Z,male,36,Western Cape,adults,Morning,338
+2359724,ICC Cricket World Cup 2011,2016-02-26T11:53:00.000Z,1899-12-31T00:00:00.000Z,male,36,Western Cape,adults,Morning,0
+2359724,ICC Cricket World Cup 2011,2016-02-26T14:01:00.000Z,1899-12-31T00:02:36.000Z,male,36,Western Cape,adults,Afternoon,156
+2359724,Supersport Live Events,2016-03-24T16:51:00.000Z,1899-12-31T00:30:06.000Z,male,36,Western Cape,adults,Afternoon,1806
+2359724,SuperSport Blitz,2016-03-19T12:05:00.000Z,1899-12-31T00:05:44.000Z,male,36,Western Cape,adults,Afternoon,344
+2359724,ICC Cricket World Cup 2011,2016-02-28T10:24:00.000Z,1899-12-31T00:01:50.000Z,male,36,Western Cape,adults,Morning,110
+2359724,ICC Cricket World Cup 2011,2016-03-01T16:28:00.000Z,1899-12-31T00:00:40.000Z,male,36,Western Cape,adults,Afternoon,40
+2359724,SuperSport Live Events,2016-02-13T17:53:00.000Z,1899-12-31T00:02:24.000Z,male,36,Western Cape,adults,Evening,144
+2359724,SuperSport Live Events,2016-02-13T17:56:00.000Z,1899-12-31T00:01:22.000Z,male,36,Western Cape,adults,Evening,82
+904173,Supersport Live Events,2016-03-25T08:20:00.000Z,1899-12-31T00:15:24.000Z,female,29,Mpumalanga,youth,Morning,924
+904174,Cartoon Network,2016-03-26T12:38:00.000Z,1899-12-31T00:00:00.000Z,male,30,Limpopo,youth,Afternoon,0
+904174,ICC Cricket World Cup 2011,2016-03-29T16:58:00.000Z,1899-12-31T00:04:42.000Z,male,30,Limpopo,youth,Afternoon,282
+831766,Channel O,2016-03-03T15:46:00.000Z,1899-12-31T00:04:21.000Z,male,29,Gauteng,youth,Afternoon,261
+831766,Africa Magic,2016-03-05T19:35:00.000Z,1899-12-31T00:00:31.000Z,male,29,Gauteng,youth,Evening,31
+808997,Trace TV,2016-02-19T10:41:00.000Z,1899-12-31T00:02:18.000Z,male,27,Limpopo,youth,Morning,138
+808997,Channel O,2016-02-19T18:27:00.000Z,1899-12-31T00:00:00.000Z,male,27,Limpopo,youth,Evening,0
+808997,Channel O,2016-03-22T04:33:00.000Z,1899-12-31T00:06:03.000Z,male,27,Limpopo,youth,Night,363
+808997,Channel O,2016-02-25T05:24:00.000Z,1899-12-31T00:19:45.000Z,male,27,Limpopo,youth,Morning,1185
+808997,Channel O,2016-01-27T06:12:00.000Z,1899-12-31T00:01:42.000Z,male,27,Limpopo,youth,Morning,102
+808997,Channel O,2016-02-01T04:54:00.000Z,1899-12-31T00:05:57.000Z,male,27,Limpopo,youth,Night,357
+892532,Cartoon Network,2016-03-20T20:39:00.000Z,1899-12-31T00:00:35.000Z,male,38,Gauteng,adults,Evening,35
+816289,Channel O,2016-03-08T12:48:00.000Z,1899-12-31T00:02:21.000Z,female,25,Mpumalanga,youth,Afternoon,141
+816289,CNN,2016-03-09T05:31:00.000Z,1899-12-31T00:00:00.000Z,female,25,Mpumalanga,youth,Morning,0
+868961,Supersport Live Events,2016-03-16T16:28:00.000Z,1899-12-31T00:01:08.000Z,male,35,Gauteng,youth,Afternoon,68
+2285609,Cartoon Network,2016-02-25T21:38:00.000Z,1899-12-31T00:00:04.000Z,male,28,Kwazulu Natal,youth,Night,4
+2285609,Trace TV,2016-03-07T21:45:00.000Z,1899-12-31T01:29:54.000Z,male,28,Kwazulu Natal,youth,Night,5394
+793649,Trace TV,2016-03-30T07:28:00.000Z,1899-12-31T00:11:30.000Z,female,21,Limpopo,youth,Morning,690
+793649,MK,2016-03-27T21:39:00.000Z,1899-12-31T00:00:20.000Z,female,21,Limpopo,youth,Night,20
+793649,Africa Magic,2016-03-29T15:54:00.000Z,1899-12-31T00:01:28.500Z,female,21,Limpopo,youth,Afternoon,88
+771872,Cartoon Network,2016-02-07T14:10:00.000Z,1899-12-31T00:12:33.000Z,male,25,Western Cape,youth,Afternoon,753
+771872,Boomerang,2016-01-31T14:20:00.000Z,1899-12-31T00:10:04.000Z,male,25,Western Cape,youth,Afternoon,604
+771872,Boomerang,2016-01-31T17:32:00.000Z,1899-12-31T00:00:01.000Z,male,25,Western Cape,youth,Evening,1
+809000,Supersport Live Events,2016-02-19T07:18:00.000Z,1899-12-31T00:01:10.000Z,male,47,Gauteng,adults,Morning,70
+809000,Vuzu,2016-01-03T20:34:00.000Z,1899-12-31T00:02:04.500Z,male,47,Gauteng,adults,Evening,124
+809000,Channel O,2016-01-05T05:06:00.000Z,1899-12-31T00:01:06.000Z,male,47,Gauteng,adults,Morning,66
+809000,CNN,2016-03-04T07:17:00.000Z,1899-12-31T00:00:54.000Z,male,47,Gauteng,adults,Morning,54
+809000,SuperSport Blitz,2016-03-12T20:20:00.000Z,1899-12-31T00:02:22.000Z,male,47,Gauteng,adults,Evening,142
+809000,Africa Magic,2016-03-10T02:28:00.000Z,1899-12-31T00:11:23.500Z,male,47,Gauteng,adults,Night,683
+771876,Trace TV,2016-01-31T11:28:00.000Z,1899-12-31T00:04:54.000Z,male,25,North West,youth,Morning,294
+771876,Boomerang,2016-02-07T17:54:00.000Z,1899-12-31T00:00:36.000Z,male,25,North West,youth,Evening,36
+771876,Supersport Live Events,2016-01-29T12:37:00.000Z,1899-12-31T00:00:00.000Z,male,25,North West,youth,Afternoon,0
+771876,Boomerang,2016-01-31T13:03:00.000Z,1899-12-31T00:00:00.000Z,male,25,North West,youth,Afternoon,0
+771876,Trace TV,2016-02-06T06:14:00.000Z,1899-12-31T00:37:36.000Z,male,25,North West,youth,Morning,2256
+771876,Cartoon Network,2016-02-06T14:08:00.000Z,1899-12-31T00:03:31.000Z,male,25,North West,youth,Afternoon,211
+771877,M-Net,2016-01-29T19:43:00.000Z,1899-12-31T00:02:35.000Z,male,25,Northern Cape,youth,Evening,155
+771877,SawSee,2016-01-31T18:38:00.000Z,1899-12-31T00:13:58.000Z,male,25,Northern Cape,youth,Evening,838
+2359733,Channel O,2016-01-26T21:50:00.000Z,1899-12-31T00:08:33.000Z,male,43,Gauteng,adults,Night,513
+809006,Supersport Live Events,2016-02-15T23:54:00.000Z,1899-12-31T00:00:42.000Z,male,31,Gauteng,youth,Night,42
+809006,Trace TV,2016-02-16T13:23:00.000Z,1899-12-31T00:02:00.000Z,male,31,Gauteng,youth,Afternoon,120
+891747,Supersport Live Events,2016-03-24T13:44:00.000Z,1899-12-31T00:28:02.000Z,male,46,Gauteng,adults,Afternoon,1682
+601422,Supersport Live Events,2016-01-09T15:41:00.000Z,1899-12-31T00:39:48.000Z,female,10,Western Cape,children,Afternoon,2388
+866215,Trace TV,2016-03-07T16:00:00.000Z,1899-12-31T00:04:03.000Z,male,22,Kwazulu Natal,youth,Afternoon,243
+939668,Channel O,2016-03-11T06:29:00.000Z,1899-12-31T00:13:30.000Z,male,21,Mpumalanga,youth,Morning,810
+939668,E! Entertainment,2016-03-12T06:57:00.000Z,1899-12-31T00:18:34.000Z,male,21,Mpumalanga,youth,Morning,1114
+939668,SuperSport Blitz,2016-03-12T17:12:00.000Z,1899-12-31T00:01:40.000Z,male,21,Mpumalanga,youth,Evening,100
+939668,Channel O,2016-03-12T18:50:00.000Z,1899-12-31T00:00:42.000Z,male,21,Mpumalanga,youth,Evening,42
+416232,Boomerang,2016-02-13T05:15:00.000Z,1899-12-31T00:00:00.000Z,None,0,None,children,Morning,0
+793652,Supersport Live Events,2016-03-24T08:50:00.000Z,1899-12-31T00:00:20.000Z,male,32,Eastern Cape,youth,Morning,20
+830884,CNN,2016-03-11T12:26:00.000Z,1899-12-31T00:12:21.000Z,male,50,Gauteng,adults,Afternoon,741
+809008,Channel O,2016-03-03T19:19:00.000Z,1899-12-31T00:01:06.000Z,male,28,Northern Cape,youth,Evening,66
+809008,MK,2016-03-03T18:38:00.000Z,1899-12-31T00:00:21.000Z,male,28,Northern Cape,youth,Evening,21
+809008,Africa Magic,2016-03-05T10:06:00.000Z,1899-12-31T00:22:55.500Z,male,28,Northern Cape,youth,Morning,1375
+809008,SuperSport Blitz,2016-03-05T13:47:00.000Z,1899-12-31T00:03:12.000Z,male,28,Northern Cape,youth,Afternoon,192
+809008,Cartoon Network,2016-02-28T14:28:00.000Z,1899-12-31T00:03:57.000Z,male,28,Northern Cape,youth,Afternoon,237
+809008,ICC Cricket World Cup 2011,2016-03-09T12:11:00.000Z,1899-12-31T00:00:38.000Z,male,28,Northern Cape,youth,Afternoon,38
+809008,SuperSport Blitz,2016-03-01T19:15:00.000Z,1899-12-31T00:05:20.000Z,male,28,Northern Cape,youth,Evening,320
+771881,Boomerang,2016-03-22T07:26:00.000Z,1899-12-31T00:00:21.000Z,male,31,Gauteng,youth,Morning,21
+771881,Africa Magic,2016-01-18T13:54:00.000Z,1899-12-31T00:00:17.500Z,male,31,Gauteng,youth,Afternoon,17
+771881,Africa Magic,2016-01-20T17:07:00.000Z,1899-12-31T00:00:07.000Z,male,31,Gauteng,youth,Evening,7
+771881,Supersport Live Events,2016-03-20T15:52:00.000Z,1899-12-31T00:00:22.000Z,male,31,Gauteng,youth,Afternoon,22
+771882,Cartoon Network,2016-01-25T16:43:00.000Z,1899-12-31T00:00:19.000Z,male,27,Gauteng,youth,Afternoon,19
+771882,Africa Magic,2016-01-20T10:37:00.000Z,1899-12-31T00:00:44.500Z,male,27,Gauteng,youth,Morning,44
+771882,Cartoon Network,2016-02-17T23:09:00.000Z,1899-12-31T00:01:14.000Z,male,27,Gauteng,youth,Night,74
+930047,SuperSport Blitz,2016-03-28T15:36:00.000Z,1899-12-31T00:00:04.000Z,male,40,Gauteng,adults,Afternoon,4
+809010,Cartoon Network,2016-02-14T09:36:00.000Z,1899-12-31T00:00:05.000Z,male,31,Gauteng,youth,Morning,5
+809010,Cartoon Network,2016-02-16T14:34:00.000Z,1899-12-31T00:07:11.000Z,male,31,Gauteng,youth,Afternoon,431
+809010,Trace TV,2016-02-16T09:44:00.000Z,1899-12-31T00:04:30.000Z,male,31,Gauteng,youth,Morning,270
+939673,SuperSport Blitz,2016-03-28T11:20:00.000Z,1899-12-31T00:04:36.000Z,male,29,Western Cape,youth,Morning,276
+764396,Supersport Live Events,2016-01-24T19:41:00.000Z,1899-12-31T00:04:54.000Z,male,52,Eastern Cape,adults,Evening,294
+764396,CNN,2016-01-25T08:39:00.000Z,1899-12-31T00:12:00.000Z,male,52,Eastern Cape,adults,Morning,720
+764396,Boomerang,2016-01-08T03:51:00.000Z,1899-12-31T00:14:33.000Z,male,52,Eastern Cape,adults,Night,873
+764396,Cartoon Network,2016-01-22T03:48:00.000Z,1899-12-31T00:01:00.000Z,male,52,Eastern Cape,adults,Night,60
+764396,Cartoon Network,2016-01-18T05:37:00.000Z,1899-12-31T00:00:18.000Z,male,52,Eastern Cape,adults,Morning,18
+809011,Supersport Live Events,2016-02-20T05:28:00.000Z,1899-12-31T00:00:22.000Z,male,48,Western Cape,adults,Morning,22
+809011,SuperSport Blitz,2016-02-20T14:30:00.000Z,1899-12-31T00:00:00.000Z,male,48,Western Cape,adults,Afternoon,0
+809011,SuperSport Blitz,2016-02-21T18:34:00.000Z,1899-12-31T00:01:00.000Z,male,48,Western Cape,adults,Evening,60
+809011,Supersport Live Events,2016-02-19T13:27:00.000Z,1899-12-31T00:58:30.000Z,male,48,Western Cape,adults,Afternoon,3510
+809011,ICC Cricket World Cup 2011,2016-02-25T10:31:00.000Z,1899-12-31T00:06:32.000Z,male,48,Western Cape,adults,Morning,392
+809011,Supersport Live Events,2016-02-25T07:54:00.000Z,1899-12-31T00:04:34.000Z,male,48,Western Cape,adults,Morning,274
+809011,DStv Events 1,2016-02-27T10:18:00.000Z,1899-12-31T00:01:00.000Z,male,48,Western Cape,adults,Morning,60
+875048,ICC Cricket World Cup 2011,2016-03-15T08:53:00.000Z,1899-12-31T00:00:00.000Z,male,25,Gauteng,youth,Morning,0
+721900,SawSee,2016-02-06T19:20:00.000Z,1899-12-31T00:00:00.000Z,None,0,None,children,Evening,0
+831775,M-Net,2016-03-13T08:41:00.000Z,1899-12-31T00:00:12.000Z,male,34,Eastern Cape,youth,Morning,12
+831775,Africa Magic,2016-03-29T16:07:00.000Z,1899-12-31T00:00:35.500Z,male,34,Eastern Cape,youth,Afternoon,35
+803575,Supersport Live Events,2016-02-19T09:08:00.000Z,1899-12-31T00:00:22.000Z,male,27,Eastern Cape,youth,Morning,22
+803575,Supersport Live Events,2016-01-31T09:46:00.000Z,1899-12-31T00:27:16.000Z,male,27,Eastern Cape,youth,Morning,1636
+803575,Supersport Live Events,2016-01-23T10:34:00.000Z,1899-12-31T00:39:16.000Z,male,27,Eastern Cape,youth,Morning,2356
+939679,Boomerang,2016-03-28T15:34:00.000Z,1899-12-31T00:00:07.000Z,male,41,Western Cape,adults,Afternoon,7
+939679,Boomerang,2016-03-28T16:27:00.000Z,1899-12-31T00:00:10.000Z,male,41,Western Cape,adults,Afternoon,10
+939679,Cartoon Network,2016-03-24T22:49:00.000Z,1899-12-31T00:00:07.000Z,male,41,Western Cape,adults,Night,7
+809015,Boomerang,2016-02-20T04:16:00.000Z,1899-12-31T00:00:01.000Z,female,31,Eastern Cape,youth,Night,1
+809015,Channel O,2016-02-19T04:30:00.000Z,1899-12-31T00:38:48.000Z,female,31,Eastern Cape,youth,Night,2328
+809015,Cartoon Network,2016-02-05T06:49:00.000Z,1899-12-31T00:00:15.000Z,female,31,Eastern Cape,youth,Morning,15
+809015,Channel O,2016-02-19T04:30:00.000Z,1899-12-31T00:38:48.000Z,female,31,Eastern Cape,youth,Night,2328
+809015,Channel O,2016-02-24T08:37:00.000Z,1899-12-31T00:02:00.000Z,female,31,Eastern Cape,youth,Morning,120
+809015,Cartoon Network,2016-01-30T16:54:00.000Z,1899-12-31T00:00:08.000Z,female,31,Eastern Cape,youth,Afternoon,8
+809015,Cartoon Network,2016-01-29T19:48:00.000Z,1899-12-31T00:00:28.000Z,female,31,Eastern Cape,youth,Evening,28
+809015,SuperSport Blitz,2016-01-28T16:26:00.000Z,1899-12-31T00:09:28.000Z,female,31,Eastern Cape,youth,Afternoon,568
+809015,Channel O,2016-02-06T11:34:00.000Z,1899-12-31T00:00:15.000Z,female,31,Eastern Cape,youth,Morning,15
+809015,Cartoon Network,2016-02-23T16:55:00.000Z,1899-12-31T00:00:29.000Z,female,31,Eastern Cape,youth,Afternoon,29
+939680,Supersport Live Events,2016-03-24T16:59:00.000Z,1899-12-31T00:03:10.000Z,male,19,Gauteng,youth,Afternoon,190
+939680,Cartoon Network,2016-03-24T06:36:00.000Z,1899-12-31T00:01:45.000Z,male,19,Gauteng,youth,Morning,105
+939680,Boomerang,2016-03-28T10:53:00.000Z,1899-12-31T00:06:21.000Z,male,19,Gauteng,youth,Morning,381
+939680,Trace TV,2016-03-27T16:06:00.000Z,1899-12-31T00:10:27.000Z,male,19,Gauteng,youth,Afternoon,627
+939680,Boomerang,2016-03-27T20:20:00.000Z,1899-12-31T00:01:11.000Z,male,19,Gauteng,youth,Evening,71
+939680,Boomerang,2016-03-24T08:53:00.000Z,1899-12-31T00:01:49.000Z,male,19,Gauteng,youth,Morning,109
+800825,Trace TV,2016-02-16T12:42:00.000Z,1899-12-31T00:00:00.000Z,male,30,Kwazulu Natal,youth,Afternoon,0
+788725,Channel O,2016-02-15T17:17:00.000Z,1899-12-31T00:00:33.000Z,male,32,Free State,youth,Evening,33
+788725,Africa Magic,2016-02-19T19:41:00.000Z,1899-12-31T00:00:17.500Z,male,32,Free State,youth,Evening,17
+788725,Trace TV,2016-02-12T13:38:00.000Z,1899-12-31T00:00:00.000Z,male,32,Free State,youth,Afternoon,0
+2090538,ICC Cricket World Cup 2011,2016-03-30T14:58:00.000Z,1899-12-31T00:29:56.000Z,male,39,Gauteng,adults,Afternoon,1796
+809018,Cartoon Network,2016-02-17T22:03:00.000Z,1899-12-31T00:02:09.000Z,male,31,Kwazulu Natal,youth,Night,129
+764405,E! Entertainment,2016-02-12T17:37:00.000Z,1899-12-31T00:00:00.000Z,male,37,Gauteng,adults,Evening,0
+788727,SuperSport Blitz,2016-01-05T19:31:00.000Z,1899-12-31T00:11:16.000Z,male,41,Western Cape,adults,Evening,676
+788727,Cartoon Network,2016-01-10T17:51:00.000Z,1899-12-31T00:00:31.000Z,male,41,Western Cape,adults,Evening,31
+788727,Supersport Live Events,2016-01-14T10:03:00.000Z,1899-12-31T00:05:06.000Z,male,41,Western Cape,adults,Morning,306
+788727,Supersport Live Events,2016-01-23T10:07:00.000Z,1899-12-31T00:00:00.000Z,male,41,Western Cape,adults,Morning,0
+771888,Channel O,2016-02-25T16:11:00.000Z,1899-12-31T00:01:21.000Z,male,41,Eastern Cape,adults,Afternoon,81
+788728,ICC Cricket World Cup 2011,2016-03-15T08:58:00.000Z,1899-12-31T00:00:18.000Z,male,35,Gauteng,youth,Morning,18
+779471,Boomerang,2016-02-10T06:38:00.000Z,1899-12-31T00:11:09.000Z,male,28,Eastern Cape,youth,Morning,669
+809021,Supersport Live Events,2016-02-19T21:28:00.000Z,1899-12-31T00:00:36.000Z,male,41,Gauteng,adults,Night,36
+820442,SuperSport Blitz,2016-02-27T09:56:00.000Z,1899-12-31T00:00:46.000Z,male,54,Gauteng,adults,Morning,46
+2425739,SuperSport Blitz,2016-03-26T04:45:00.000Z,1899-12-31T00:03:26.000Z,male,54,Gauteng,adults,Night,206
+771889,Africa Magic,2016-01-27T15:43:00.000Z,1899-12-31T00:00:16.500Z,male,46,Eastern Cape,adults,Afternoon,16
+771889,Africa Magic,2016-01-21T14:52:00.000Z,1899-12-31T00:07:59.000Z,male,46,Eastern Cape,adults,Afternoon,479
+793662,E! Entertainment,2016-01-31T10:54:00.000Z,1899-12-31T00:08:52.000Z,male,26,Western Cape,youth,Morning,532
+793662,Channel O,2016-01-29T15:31:00.000Z,1899-12-31T00:00:12.000Z,male,26,Western Cape,youth,Afternoon,12
+793662,Trace TV,2016-03-31T20:49:00.000Z,1899-12-31T00:28:51.000Z,male,26,Western Cape,youth,Evening,1731
+892554,E! Entertainment,2016-03-22T06:04:00.000Z,1899-12-31T00:03:04.000Z,male,31,Western Cape,youth,Morning,184
+820443,Channel O,2016-03-05T16:01:00.000Z,1899-12-31T01:04:03.000Z,male,18,North West,youth,Afternoon,3843
+820443,Cartoon Network,2016-02-27T09:08:00.000Z,1899-12-31T00:04:06.000Z,male,18,North West,youth,Morning,246
+820443,Channel O,2016-02-28T11:57:00.000Z,1899-12-31T00:00:45.000Z,male,18,North West,youth,Morning,45
+919220,ICC Cricket World Cup 2011,2016-03-28T09:58:00.000Z,1899-12-31T00:00:40.000Z,male,22,Western Cape,youth,Morning,40
+919222,Cartoon Network,2016-03-26T17:25:00.000Z,1899-12-31T00:00:00.000Z,male,26,Limpopo,youth,Evening,0
+831788,SuperSport Blitz,2016-03-06T19:42:00.000Z,1899-12-31T00:00:04.000Z,male,46,Western Cape,adults,Evening,4
+831788,Supersport Live Events,2016-03-06T20:14:00.000Z,1899-12-31T00:00:06.000Z,male,46,Western Cape,adults,Evening,6
+831788,Supersport Live Events,2016-03-06T20:37:00.000Z,1899-12-31T00:00:04.000Z,male,46,Western Cape,adults,Evening,4
+866231,ICC Cricket World Cup 2011,2016-03-05T09:28:00.000Z,1899-12-31T00:08:38.000Z,male,35,Western Cape,youth,Morning,518
+866231,ICC Cricket World Cup 2011,2016-03-15T15:13:00.000Z,1899-12-31T00:00:44.000Z,male,35,Western Cape,youth,Afternoon,44
+930066,ICC Cricket World Cup 2011,2016-03-29T15:41:00.000Z,1899-12-31T00:00:08.000Z,male,32,Eastern Cape,youth,Afternoon,8
+892557,Cartoon Network,2016-03-09T13:36:00.000Z,1899-12-31T00:09:13.000Z,male,20,Gauteng,youth,Afternoon,553
+831789,Supersport Live Events,2016-03-03T19:55:00.000Z,1899-12-31T00:00:00.000Z,male,28,Western Cape,youth,Evening,0
+831789,Trace TV,2016-03-03T22:58:00.000Z,1899-12-31T00:22:24.000Z,male,28,Western Cape,youth,Night,1344
+831789,ICC Cricket World Cup 2011,2016-03-04T08:23:00.000Z,1899-12-31T00:00:50.000Z,male,28,Western Cape,youth,Morning,50
+831789,Channel O,2016-03-04T21:31:00.000Z,1899-12-31T00:04:48.000Z,male,28,Western Cape,youth,Night,288
+831789,Boomerang,2016-03-05T20:20:00.000Z,1899-12-31T00:01:51.000Z,male,28,Western Cape,youth,Evening,111
+892558,Cartoon Network,2016-03-24T17:03:00.000Z,1899-12-31T00:00:00.000Z,female,29,Gauteng,youth,Evening,0
+892558,SawSee,2016-03-20T15:27:00.000Z,1899-12-31T00:00:50.000Z,female,29,Gauteng,youth,Afternoon,50
+930067,ICC Cricket World Cup 2011,2016-03-30T08:49:00.000Z,1899-12-31T00:00:22.000Z,male,32,Kwazulu Natal,youth,Morning,22
+868982,SuperSport Blitz,2016-03-12T08:50:00.000Z,1899-12-31T00:00:28.000Z,male,23,Gauteng,youth,Morning,28
+809028,Break in transmission,2016-02-14T03:14:00.000Z,1899-12-31T00:00:16.000Z,male,32,Kwazulu Natal,youth,Night,16
+809028,Supersport Live Events,2016-02-18T09:20:00.000Z,1899-12-31T00:00:00.000Z,male,32,Kwazulu Natal,youth,Morning,0
+1445,SuperSport Blitz,2016-02-25T10:37:00.000Z,1899-12-31T00:05:38.000Z,male,13,Northern Cape,children,Morning,338
+1445,CNN,2016-03-06T15:47:00.000Z,1899-12-31T00:00:33.000Z,male,13,Northern Cape,children,Afternoon,33
+2023963,SuperSport Blitz,2016-03-04T19:34:00.000Z,1899-12-31T00:00:00.000Z,male,32,Kwazulu Natal,youth,Evening,0
+880319,ICC Cricket World Cup 2011,2016-03-30T11:07:00.000Z,1899-12-31T02:09:56.000Z,None,0,None,children,Morning,7796
+868986,CNN,2016-03-15T07:30:00.000Z,1899-12-31T00:00:00.000Z,male,38,Limpopo,adults,Morning,0
+868986,ICC Cricket World Cup 2011,2016-03-15T13:53:00.000Z,1899-12-31T00:07:34.000Z,male,38,Limpopo,adults,Afternoon,454
+939694,CNN,2016-03-23T18:55:00.000Z,1899-12-31T00:00:19.000Z,male,30,Gauteng,youth,Evening,19
+939694,SuperSport Blitz,2016-03-27T12:24:00.000Z,1899-12-31T00:04:54.000Z,male,30,Gauteng,youth,Afternoon,294
+370637,Supersport Live Events,2016-01-18T13:58:00.000Z,1899-12-31T00:31:06.000Z,male,34,Western Cape,youth,Afternoon,1866
+808003,Channel O,2016-02-28T08:25:00.000Z,1899-12-31T00:00:09.000Z,male,17,Gauteng,children,Morning,9
+805455,Trace TV,2016-02-23T12:09:00.000Z,1899-12-31T00:00:00.000Z,female,28,Limpopo,youth,Afternoon,0
+939695,Cartoon Network,2016-01-01T14:03:00.000Z,1899-12-31T00:28:28.000Z,female,31,Gauteng,youth,Afternoon,1708
+939695,Channel O,2016-01-09T18:03:00.000Z,1899-12-31T00:01:06.000Z,female,31,Gauteng,youth,Evening,66
+939695,CNN,2016-01-14T16:16:00.000Z,1899-12-31T00:12:51.000Z,female,31,Gauteng,youth,Afternoon,771
+919229,ICC Cricket World Cup 2011,2016-03-29T08:55:00.000Z,1899-12-31T00:19:34.000Z,male,32,Limpopo,youth,Morning,1174
+919229,ICC Cricket World Cup 2011,2016-03-29T10:42:00.000Z,1899-12-31T00:10:10.000Z,male,32,Limpopo,youth,Morning,610
+793670,Cartoon Network,2016-01-17T19:43:00.000Z,1899-12-31T00:03:41.000Z,male,44,Western Cape,adults,Evening,221
+793670,SuperSport Blitz,2016-01-29T16:37:00.000Z,1899-12-31T00:31:10.000Z,male,44,Western Cape,adults,Afternoon,1870
+793670,CNN,2016-01-18T15:16:00.000Z,1899-12-31T00:00:14.000Z,male,44,Western Cape,adults,Afternoon,14
+793670,Boomerang,2016-01-15T11:02:00.000Z,1899-12-31T00:12:53.000Z,male,44,Western Cape,adults,Morning,773
+2359771,Supersport Live Events,2016-01-16T07:57:00.000Z,1899-12-31T00:01:28.000Z,male,35,Kwazulu Natal,youth,Morning,88
+2359771,Trace TV,2016-01-22T10:21:00.000Z,1899-12-31T00:35:27.000Z,male,35,Kwazulu Natal,youth,Morning,2127
+2359771,Trace TV,2016-01-20T07:52:00.000Z,1899-12-31T00:01:54.000Z,male,35,Kwazulu Natal,youth,Morning,114
+2359771,Supersport Live Events,2016-01-16T15:42:00.000Z,1899-12-31T00:20:42.000Z,male,35,Kwazulu Natal,youth,Afternoon,1242
+809034,ICC Cricket World Cup 2011,2016-03-03T05:39:00.000Z,1899-12-31T00:07:50.000Z,male,61,Gauteng,pensioners,Morning,470
+809034,Channel O,2016-03-01T04:22:00.000Z,1899-12-31T00:17:30.000Z,male,61,Gauteng,pensioners,Night,1050
+793672,Africa Magic,2016-01-21T16:30:00.000Z,1899-12-31T00:00:01.500Z,female,31,Kwazulu Natal,youth,Afternoon,1
+2090555,E! Entertainment,2016-03-13T17:39:00.000Z,1899-12-31T00:00:38.000Z,male,27,Gauteng,youth,Evening,38
+2090555,ICC Cricket World Cup 2011,2016-03-14T15:47:00.000Z,1899-12-31T00:04:14.000Z,male,27,Gauteng,youth,Afternoon,254
+2090555,ICC Cricket World Cup 2011,2016-03-19T10:54:00.000Z,1899-12-31T00:00:58.000Z,male,27,Gauteng,youth,Morning,58
+2090555,ICC Cricket World Cup 2011,2016-03-30T08:49:00.000Z,1899-12-31T00:03:32.000Z,male,27,Gauteng,youth,Morning,212
+809035,ICC Cricket World Cup 2011,2016-02-22T16:43:00.000Z,1899-12-31T00:01:38.000Z,male,42,Gauteng,adults,Afternoon,98
+809035,Supersport Live Events,2016-01-08T03:47:00.000Z,1899-12-31T00:23:48.000Z,male,42,Gauteng,adults,Night,1428
+809035,SuperSport Blitz,2016-01-29T19:46:00.000Z,1899-12-31T00:01:02.000Z,male,42,Gauteng,adults,Evening,62
+809035,ICC Cricket World Cup 2011,2016-03-03T04:41:00.000Z,1899-12-31T00:07:30.000Z,male,42,Gauteng,adults,Night,450
+939699,Channel O,2016-03-01T12:55:00.000Z,1899-12-31T00:02:54.000Z,male,36,Western Cape,adults,Afternoon,174
+597268,Trace TV,2016-01-06T06:28:00.000Z,1899-12-31T00:15:12.000Z,male,28,Eastern Cape,youth,Morning,912
+597268,SuperSport Blitz,2016-01-08T12:44:00.000Z,1899-12-31T00:00:50.000Z,male,28,Eastern Cape,youth,Afternoon,50
+597268,Channel O,2016-01-06T08:33:00.000Z,1899-12-31T00:01:30.000Z,male,28,Eastern Cape,youth,Morning,90
+597268,Channel O,2016-01-08T12:46:00.000Z,1899-12-31T00:01:27.000Z,male,28,Eastern Cape,youth,Afternoon,87
+597268,DStv Events 1,2016-01-08T18:59:00.000Z,1899-12-31T00:05:45.000Z,male,28,Eastern Cape,youth,Evening,345
+597268,Channel O,2016-01-10T15:02:00.000Z,1899-12-31T00:09:06.000Z,male,28,Eastern Cape,youth,Afternoon,546
+597268,Trace TV,2016-01-05T20:13:00.000Z,1899-12-31T00:13:12.000Z,male,28,Eastern Cape,youth,Evening,792
+597268,Supersport Live Events,2016-01-08T07:26:00.000Z,1899-12-31T00:00:50.000Z,male,28,Eastern Cape,youth,Morning,50
+882376,Supersport Live Events,2016-03-19T14:14:00.000Z,1899-12-31T00:01:12.000Z,male,54,Gauteng,adults,Afternoon,72
+866244,Channel O,2016-02-21T06:31:00.000Z,1899-12-31T00:02:15.000Z,male,26,Western Cape,youth,Morning,135
+866244,SuperSport Blitz,2016-02-20T13:02:00.000Z,1899-12-31T00:00:58.000Z,male,26,Western Cape,youth,Afternoon,58
+866244,Supersport Live Events,2016-02-20T13:03:00.000Z,1899-12-31T00:00:54.000Z,male,26,Western Cape,youth,Afternoon,54
+866244,Channel O,2016-02-21T07:20:00.000Z,1899-12-31T00:09:06.000Z,male,26,Western Cape,youth,Morning,546
+866244,SuperSport Blitz,2016-03-25T19:36:00.000Z,1899-12-31T00:00:00.000Z,male,26,Western Cape,youth,Evening,0
+866244,Supersport Live Events,2016-03-24T10:02:00.000Z,1899-12-31T00:03:00.000Z,male,26,Western Cape,youth,Morning,180
+788744,SuperSport Blitz,2016-01-14T23:09:00.000Z,1899-12-31T00:02:30.000Z,male,23,Western Cape,youth,Night,150
+788744,Supersport Live Events,2016-01-18T09:35:00.000Z,1899-12-31T00:00:52.000Z,male,23,Western Cape,youth,Morning,52
+771902,Africa Magic,2016-01-15T18:35:00.000Z,1899-12-31T00:01:11.000Z,male,24,Gauteng,youth,Evening,71
+771903,Supersport Live Events,2016-03-27T15:12:00.000Z,1899-12-31T00:01:16.000Z,male,28,Gauteng,youth,Afternoon,76
+747690,Trace TV,2016-01-16T18:49:00.000Z,1899-12-31T00:00:15.000Z,female,29,Gauteng,youth,Evening,15
+779485,Boomerang,2016-02-02T09:23:00.000Z,1899-12-31T00:01:18.000Z,male,25,North West,youth,Morning,78
+779485,Trace TV,2016-02-02T15:20:00.000Z,1899-12-31T00:43:48.000Z,male,25,North West,youth,Afternoon,2628
+779485,M-Net,2016-02-04T21:35:00.000Z,1899-12-31T00:00:18.000Z,male,25,North West,youth,Night,18
+779485,Boomerang,2016-01-06T09:34:00.000Z,1899-12-31T00:12:33.000Z,male,25,North West,youth,Morning,753
+779485,Channel O,2016-01-02T06:46:00.000Z,1899-12-31T00:01:27.000Z,male,25,North West,youth,Morning,87
+779485,Channel O,2016-01-30T10:38:00.000Z,1899-12-31T02:02:57.000Z,male,25,North West,youth,Morning,7377
+779485,SuperSport Blitz,2016-01-29T11:29:00.000Z,1899-12-31T00:17:40.000Z,male,25,North West,youth,Morning,1060
+736517,Africa Magic,2016-01-24T10:04:00.000Z,1899-12-31T00:00:00.000Z,male,39,Mpumalanga,adults,Morning,0
+736517,Africa Magic,2016-01-24T08:15:00.000Z,1899-12-31T00:06:19.500Z,male,39,Mpumalanga,adults,Morning,379
+779486,SuperSport Blitz,2016-01-09T03:28:00.000Z,1899-12-31T00:00:20.000Z,male,36,Gauteng,adults,Night,20
+939702,Boomerang,2016-03-04T19:02:00.000Z,1899-12-31T00:07:46.000Z,male,37,Western Cape,adults,Evening,466
+764429,Trace TV,2016-01-06T19:23:00.000Z,1899-12-31T00:04:15.000Z,male,22,Western Cape,youth,Evening,255
+764429,M-Net,2016-02-27T19:44:00.000Z,1899-12-31T00:02:31.000Z,male,22,Western Cape,youth,Evening,151
+742848,CNN,2016-02-03T04:59:00.000Z,1899-12-31T00:00:31.000Z,male,25,Eastern Cape,youth,Night,31
+742848,Channel O,2016-01-27T04:15:00.000Z,1899-12-31T00:06:54.000Z,male,25,Eastern Cape,youth,Night,414
+742848,SuperSport Blitz,2016-02-09T19:10:00.000Z,1899-12-31T00:00:40.000Z,male,25,Eastern Cape,youth,Evening,40
+859379,Supersport Live Events,2016-03-11T07:38:00.000Z,1899-12-31T00:47:42.000Z,male,20,Gauteng,youth,Morning,2862
+2285664,SuperSport Blitz,2016-03-25T07:26:00.000Z,1899-12-31T00:00:00.000Z,male,28,Mpumalanga,youth,Morning,0
+2285664,ICC Cricket World Cup 2011,2016-03-26T10:02:00.000Z,1899-12-31T01:06:24.000Z,male,28,Mpumalanga,youth,Morning,3984
+777129,Trace TV,2016-01-10T19:09:00.000Z,1899-12-31T00:01:12.000Z,male,31,North West,youth,Evening,72
+771907,Trace TV,2016-02-09T17:45:00.000Z,1899-12-31T00:15:42.000Z,male,41,Kwazulu Natal,adults,Evening,942
+720398,DStv Events 1,2016-01-20T17:22:00.000Z,1899-12-31T00:01:05.000Z,female,28,Gauteng,youth,Evening,65
+819332,Boomerang,2016-03-06T20:44:00.000Z,1899-12-31T00:00:58.000Z,male,62,Gauteng,pensioners,Evening,58
+771048,Cartoon Network,2016-02-05T21:58:00.000Z,1899-12-31T00:00:53.000Z,male,19,Gauteng,youth,Night,53
+771048,SuperSport Blitz,2016-02-06T20:34:00.000Z,1899-12-31T00:08:34.000Z,male,19,Gauteng,youth,Evening,514
+820456,SuperSport Blitz,2016-01-27T15:30:00.000Z,1899-12-31T00:01:46.000Z,male,42,Gauteng,adults,Afternoon,106
+809039,Boomerang,2016-02-19T17:25:00.000Z,1899-12-31T00:00:04.000Z,male,43,Mpumalanga,adults,Evening,4
+809039,Supersport Live Events,2016-02-19T17:26:00.000Z,1899-12-31T00:01:48.000Z,male,43,Mpumalanga,adults,Evening,108
+809039,Supersport Live Events,2016-02-19T17:57:00.000Z,1899-12-31T00:00:26.000Z,male,43,Mpumalanga,adults,Evening,26
+865408,SuperSport Blitz,2016-03-16T17:59:00.000Z,1899-12-31T00:00:40.000Z,male,37,North West,adults,Evening,40
+831810,Trace TV,2016-03-02T12:01:00.000Z,1899-12-31T00:00:51.000Z,male,24,Kwazulu Natal,youth,Afternoon,51
+831810,Boomerang,2016-03-06T12:12:00.000Z,1899-12-31T00:07:09.000Z,male,24,Kwazulu Natal,youth,Afternoon,429
+904273,Boomerang,2016-03-24T05:45:00.000Z,1899-12-31T00:00:57.000Z,male,31,Gauteng,youth,Morning,57
+904274,Africa Magic,2016-03-31T08:04:00.000Z,1899-12-31T00:00:44.500Z,male,23,Gauteng,youth,Morning,44
+904274,ICC Cricket World Cup 2011,2016-03-30T12:06:00.000Z,1899-12-31T00:08:58.000Z,male,23,Gauteng,youth,Afternoon,538
+904274,ICC Cricket World Cup 2011,2016-03-30T11:57:00.000Z,1899-12-31T00:30:52.000Z,male,23,Gauteng,youth,Morning,1852
+866251,Trace TV,2016-03-03T18:32:00.000Z,1899-12-31T00:28:42.000Z,male,30,Gauteng,youth,Evening,1722
+2420980,Boomerang,2016-03-21T09:48:00.000Z,1899-12-31T00:01:11.000Z,male,43,Kwazulu Natal,adults,Morning,71
+788751,SuperSport Blitz,2016-02-01T21:35:00.000Z,1899-12-31T00:04:20.000Z,male,26,Western Cape,youth,Night,260
+892573,SuperSport Blitz,2016-03-19T16:53:00.000Z,1899-12-31T00:00:04.000Z,male,47,Mpumalanga,adults,Afternoon,4
+809043,Trace TV,2016-02-19T04:10:00.000Z,1899-12-31T00:20:24.000Z,male,34,Gauteng,youth,Night,1224
+809043,Supersport Live Events,2016-02-21T19:50:00.000Z,1899-12-31T00:14:58.000Z,male,34,Gauteng,youth,Evening,898
+809043,Supersport Live Events,2016-03-06T12:46:00.000Z,1899-12-31T00:02:00.000Z,male,34,Gauteng,youth,Afternoon,120
+939712,Africa Magic,2016-03-23T06:16:00.000Z,1899-12-31T00:00:49.500Z,male,42,Western Cape,adults,Morning,49
+939712,Supersport Live Events,2016-03-20T12:59:00.000Z,1899-12-31T00:00:48.000Z,male,42,Western Cape,adults,Afternoon,48
+817317,SawSee,2016-03-04T14:06:00.000Z,1899-12-31T00:00:14.000Z,male,53,Western Cape,adults,Afternoon,14
+817317,M-Net,2016-03-04T14:09:00.000Z,1899-12-31T00:00:10.000Z,male,53,Western Cape,adults,Afternoon,10
+817317,Boomerang,2016-02-06T12:43:00.000Z,1899-12-31T00:00:08.000Z,male,53,Western Cape,adults,Afternoon,8
+817317,ICC Cricket World Cup 2011,2016-02-23T16:03:00.000Z,1899-12-31T00:01:54.000Z,male,53,Western Cape,adults,Afternoon,114
+817317,kykNET,2016-02-23T16:11:00.000Z,1899-12-31T00:00:54.000Z,male,53,Western Cape,adults,Afternoon,54
+817317,Channel O,2016-03-25T13:54:00.000Z,1899-12-31T00:00:21.000Z,male,53,Western Cape,adults,Afternoon,21
+771911,Supersport Live Events,2016-02-14T19:34:00.000Z,1899-12-31T00:01:06.000Z,male,25,North West,youth,Evening,66
+771911,Supersport Live Events,2016-02-02T17:35:00.000Z,1899-12-31T00:08:44.000Z,male,25,North West,youth,Evening,524
+771911,SawSee,2016-02-02T00:50:00.000Z,1899-12-31T00:00:05.000Z,male,25,North West,youth,Night,5
+771911,SuperSport Blitz,2016-02-02T00:33:00.000Z,1899-12-31T00:03:00.000Z,male,25,North West,youth,Night,180
+771911,Trace TV,2016-03-08T10:23:00.000Z,1899-12-31T00:03:09.000Z,male,25,North West,youth,Morning,189
+771911,ICC Cricket World Cup 2011,2016-03-06T12:26:00.000Z,1899-12-31T00:10:06.000Z,male,25,North West,youth,Afternoon,606
+916065,ICC Cricket World Cup 2011,2016-03-26T09:01:00.000Z,1899-12-31T00:06:50.000Z,male,16,North West,children,Morning,410
+2360384,Boomerang,2016-02-08T12:09:00.000Z,1899-12-31T00:04:44.000Z,male,37,Mpumalanga,adults,Afternoon,284
+809045,Cartoon Network,2016-02-18T21:13:00.000Z,1899-12-31T00:00:10.000Z,male,38,Western Cape,adults,Night,10
+809045,Boomerang,2016-02-27T19:56:00.000Z,1899-12-31T00:01:08.000Z,male,38,Western Cape,adults,Evening,68
+859389,Supersport Live Events,2016-03-26T16:15:00.000Z,1899-12-31T00:03:26.000Z,male,42,Mpumalanga,adults,Afternoon,206
+866255,ICC Cricket World Cup 2011,2016-03-05T12:04:00.000Z,1899-12-31T00:08:24.000Z,male,24,North West,youth,Afternoon,504
+939713,E! Entertainment,2016-03-04T21:06:00.000Z,1899-12-31T00:01:06.000Z,male,26,Free State,youth,Night,66
+892577,SuperSport Blitz,2016-03-20T13:03:00.000Z,1899-12-31T00:07:14.000Z,male,30,Mpumalanga,youth,Afternoon,434
+893061,Boomerang,2016-03-17T13:48:00.000Z,1899-12-31T00:01:05.000Z,male,28,Gauteng,youth,Afternoon,65
+779489,M-Net,2016-03-03T02:28:00.000Z,1899-12-31T00:02:47.000Z,male,37,Kwazulu Natal,adults,Night,167
+865413,Supersport Live Events,2016-03-19T11:40:00.000Z,1899-12-31T00:00:28.000Z,male,35,Mpumalanga,youth,Morning,28
+865413,Supersport Live Events,2016-03-19T09:14:00.000Z,1899-12-31T00:03:20.000Z,male,35,Mpumalanga,youth,Morning,200
+809047,Trace TV,2016-03-31T21:42:00.000Z,1899-12-31T00:02:45.000Z,female,50,Western Cape,adults,Night,165
+809047,Trace TV,2016-03-07T18:36:00.000Z,1899-12-31T00:06:00.000Z,female,50,Western Cape,adults,Evening,360
+737179,Trace TV,2016-01-24T11:40:00.000Z,1899-12-31T00:01:33.000Z,male,25,Gauteng,youth,Morning,93
+930093,SawSee,2016-03-30T19:40:00.000Z,1899-12-31T00:04:50.000Z,male,38,Gauteng,adults,Evening,290
+922283,Cartoon Network,2016-03-28T15:12:00.000Z,1899-12-31T00:00:00.000Z,male,22,Limpopo,youth,Afternoon,0
+850779,Cartoon Network,2016-03-03T15:42:00.000Z,1899-12-31T00:00:12.000Z,male,31,Gauteng,youth,Afternoon,12
+930094,ICC Cricket World Cup 2011,2016-03-29T10:17:00.000Z,1899-12-31T00:01:24.000Z,male,26,Free State,youth,Morning,84
+930094,Trace TV,2016-03-29T15:32:00.000Z,1899-12-31T00:01:00.000Z,male,26,Free State,youth,Afternoon,60
+2285675,ICC Cricket World Cup 2011,2016-03-25T11:53:00.000Z,1899-12-31T00:00:32.000Z,male,33,Gauteng,youth,Morning,32
+831815,Supersport Live Events,2016-03-03T12:41:00.000Z,1899-12-31T00:11:42.000Z,male,36,Kwazulu Natal,adults,Afternoon,702
+642504,DStv Events 1,2016-03-30T06:07:00.000Z,1899-12-31T00:01:25.000Z,None,0,None,children,Morning,85
+809048,Supersport Live Events,2016-02-19T11:51:00.000Z,1899-12-31T00:00:52.000Z,male,46,Limpopo,adults,Morning,52
+809048,ICC Cricket World Cup 2011,2016-02-24T14:59:00.000Z,1899-12-31T00:04:00.000Z,male,46,Limpopo,adults,Afternoon,240
+809048,Africa Magic,2016-02-03T09:55:00.000Z,1899-12-31T00:00:23.000Z,male,46,Limpopo,adults,Morning,23
+809048,Channel O,2016-02-03T10:05:00.000Z,1899-12-31T00:27:00.000Z,male,46,Limpopo,adults,Morning,1620
+809048,ICC Cricket World Cup 2011,2016-03-09T13:18:00.000Z,1899-12-31T00:16:38.000Z,male,46,Limpopo,adults,Afternoon,998
+904295,Supersport Live Events,2016-03-24T16:44:00.000Z,1899-12-31T01:11:12.000Z,male,41,Western Cape,adults,Afternoon,4272
+930097,ICC Cricket World Cup 2011,2016-03-30T15:04:00.000Z,1899-12-31T01:22:02.000Z,male,26,Gauteng,youth,Afternoon,4922
+939717,E! Entertainment,2016-03-30T08:10:00.000Z,1899-12-31T00:00:46.000Z,male,27,Gauteng,youth,Morning,46
+939717,Trace TV,2016-03-29T20:22:00.000Z,1899-12-31T00:02:06.000Z,male,27,Gauteng,youth,Evening,126
+904299,ICC Cricket World Cup 2011,2016-03-30T12:04:00.000Z,1899-12-31T01:47:28.000Z,male,9,Free State,children,Afternoon,6448
+904299,ICC Cricket World Cup 2011,2016-03-25T15:32:00.000Z,1899-12-31T01:30:26.000Z,male,9,Free State,children,Afternoon,5426
+904299,ICC Cricket World Cup 2011,2016-03-29T13:01:00.000Z,1899-12-31T01:31:36.000Z,male,9,Free State,children,Afternoon,5496
+531053,Cartoon Network,2016-01-11T07:09:00.000Z,1899-12-31T00:02:17.000Z,male,18,Western Cape,youth,Morning,137
+2368559,Supersport Live Events,2016-02-19T19:26:00.000Z,1899-12-31T00:45:42.000Z,male,40,Gauteng,adults,Evening,2742
+2368559,Supersport Live Events,2016-02-04T19:46:00.000Z,1899-12-31T00:13:28.000Z,male,40,Gauteng,adults,Evening,808
+2368559,Supersport Live Events,2016-01-25T20:50:00.000Z,1899-12-31T00:13:24.000Z,male,40,Gauteng,adults,Evening,804
+2368559,DStv Events 1,2016-01-07T17:42:00.000Z,1899-12-31T00:04:10.000Z,male,40,Gauteng,adults,Evening,250
+2368559,Africa Magic,2016-01-08T10:34:00.000Z,1899-12-31T00:00:26.000Z,male,40,Gauteng,adults,Morning,26
+779500,Break in transmission,2016-02-14T06:00:00.000Z,1899-12-31T00:00:16.000Z,male,33,Western Cape,youth,Morning,16
+779500,Boomerang,2016-02-02T15:55:00.000Z,1899-12-31T00:09:32.000Z,male,33,Western Cape,youth,Afternoon,572
+2425806,CNN,2016-01-31T16:01:00.000Z,1899-12-31T00:00:30.000Z,male,41,Gauteng,adults,Afternoon,30
+2425806,Boomerang,2016-02-03T15:38:00.000Z,1899-12-31T00:00:09.000Z,male,41,Gauteng,adults,Afternoon,9
+831820,ICC Cricket World Cup 2011,2016-03-13T14:35:00.000Z,1899-12-31T00:13:22.000Z,male,27,Kwazulu Natal,youth,Afternoon,802
+831820,Cartoon Network,2016-03-06T18:51:00.000Z,1899-12-31T00:00:57.000Z,male,27,Kwazulu Natal,youth,Evening,57
+831820,Cartoon Network,2016-02-27T18:02:00.000Z,1899-12-31T00:11:56.000Z,male,27,Kwazulu Natal,youth,Evening,716
+521247,Africa Magic,2016-01-03T20:51:00.000Z,1899-12-31T00:07:06.000Z,male,21,Mpumalanga,youth,Evening,426
+521247,Channel O,2016-01-08T12:25:00.000Z,1899-12-31T00:04:48.000Z,male,21,Mpumalanga,youth,Afternoon,288
+621328,DStv Events 1,2016-01-13T20:02:00.000Z,1899-12-31T00:01:35.000Z,male,29,Western Cape,youth,Evening,95
+892587,ICC Cricket World Cup 2011,2016-03-11T18:07:00.000Z,1899-12-31T00:01:10.000Z,male,32,Gauteng,youth,Evening,70
+892587,ICC Cricket World Cup 2011,2016-03-20T16:37:00.000Z,1899-12-31T01:04:12.000Z,male,32,Gauteng,youth,Afternoon,3852
+939719,Channel O,2016-03-31T19:33:00.000Z,1899-12-31T00:02:18.000Z,male,28,Kwazulu Natal,youth,Evening,138
+939719,Vuzu,2016-03-31T16:36:00.000Z,1899-12-31T00:02:11.500Z,male,28,Kwazulu Natal,youth,Afternoon,131
+930104,SuperSport Blitz,2016-03-29T21:49:00.000Z,1899-12-31T00:04:24.000Z,male,23,Limpopo,youth,Night,264
+866270,ICC Cricket World Cup 2011,2016-03-13T12:07:00.000Z,1899-12-31T00:59:14.000Z,male,32,Gauteng,youth,Afternoon,3554
+866270,Cartoon Network,2016-03-19T09:27:00.000Z,1899-12-31T00:20:19.000Z,male,32,Gauteng,youth,Morning,1219
+858517,Channel O,2016-03-25T16:17:00.000Z,1899-12-31T00:02:24.000Z,None,0,None,children,Afternoon,144
+858517,Channel O,2016-03-25T10:44:00.000Z,1899-12-31T00:01:00.000Z,None,0,None,children,Morning,60
+789241,Boomerang,2016-02-13T08:22:00.000Z,1899-12-31T00:01:58.000Z,male,25,Northern Cape,youth,Morning,118
+1106301,SuperSport Blitz,2016-03-26T06:05:00.000Z,1899-12-31T00:00:50.000Z,male,45,Gauteng,adults,Morning,50
+1106301,SuperSport Blitz,2016-03-26T08:23:00.000Z,1899-12-31T00:01:54.000Z,male,45,Gauteng,adults,Morning,114
+817331,Channel O,2016-02-25T12:36:00.000Z,1899-12-31T00:16:00.000Z,male,16,Gauteng,children,Afternoon,960
+2368568,CNN,2016-03-18T07:14:00.000Z,1899-12-31T00:07:50.000Z,male,49,Kwazulu Natal,adults,Morning,470
+2368568,CNN,2016-03-19T18:36:00.000Z,1899-12-31T00:02:01.000Z,male,49,Kwazulu Natal,adults,Evening,121
+2368568,Supersport Live Events,2016-03-20T16:29:00.000Z,1899-12-31T00:00:00.000Z,male,49,Kwazulu Natal,adults,Afternoon,0
+2368568,Africa Magic,2016-03-16T05:38:00.000Z,1899-12-31T00:00:44.000Z,male,49,Kwazulu Natal,adults,Morning,44
+2368568,Channel O,2016-03-15T21:31:00.000Z,1899-12-31T00:24:39.000Z,male,49,Kwazulu Natal,adults,Night,1479
+809056,Channel O,2016-02-05T14:31:00.000Z,1899-12-31T00:03:27.000Z,male,43,Western Cape,adults,Afternoon,207
+809056,ICC Cricket World Cup 2011,2016-02-26T11:02:00.000Z,1899-12-31T00:03:30.000Z,male,43,Western Cape,adults,Morning,210
+809056,E! Entertainment,2016-02-15T15:50:00.000Z,1899-12-31T00:01:54.000Z,male,43,Western Cape,adults,Afternoon,114
+809056,Trace TV,2016-02-20T09:29:00.000Z,1899-12-31T00:04:15.000Z,male,43,Western Cape,adults,Morning,255
+809056,SuperSport Blitz,2016-02-20T09:31:00.000Z,1899-12-31T00:01:28.000Z,male,43,Western Cape,adults,Morning,88
+809056,Channel O,2016-02-14T11:27:00.000Z,1899-12-31T00:04:24.000Z,male,43,Western Cape,adults,Morning,264
+809056,Trace TV,2016-02-21T15:17:00.000Z,1899-12-31T00:23:48.000Z,male,43,Western Cape,adults,Afternoon,1428
+809056,Africa Magic,2016-02-02T18:18:00.000Z,1899-12-31T00:00:53.000Z,male,43,Western Cape,adults,Evening,53
+809056,ICC Cricket World Cup 2011,2016-02-25T07:45:00.000Z,1899-12-31T00:04:32.000Z,male,43,Western Cape,adults,Morning,272
+809056,Trace TV,2016-03-08T08:42:00.000Z,1899-12-31T00:09:48.000Z,male,43,Western Cape,adults,Morning,588
+809056,Trace TV,2016-01-01T19:19:00.000Z,1899-12-31T00:01:00.000Z,male,43,Western Cape,adults,Evening,60
+809056,Trace TV,2016-01-27T21:45:00.000Z,1899-12-31T00:07:39.000Z,male,43,Western Cape,adults,Night,459
+809056,Supersport Live Events,2016-01-12T12:21:00.000Z,1899-12-31T00:00:58.000Z,male,43,Western Cape,adults,Afternoon,58
+809056,Trace TV,2016-01-06T19:27:00.000Z,1899-12-31T00:23:06.000Z,male,43,Western Cape,adults,Evening,1386
+809056,Cartoon Network,2016-02-12T21:59:00.000Z,1899-12-31T00:00:14.000Z,male,43,Western Cape,adults,Night,14
+809056,Boomerang,2016-01-02T18:57:00.000Z,1899-12-31T00:15:16.000Z,male,43,Western Cape,adults,Evening,916
+809056,Trace TV,2016-01-01T06:26:00.000Z,1899-12-31T00:02:48.000Z,male,43,Western Cape,adults,Morning,168
+809056,Trace TV,2016-03-04T23:03:00.000Z,1899-12-31T00:16:21.000Z,male,43,Western Cape,adults,Night,981
+809056,ICC Cricket World Cup 2011,2016-03-05T13:25:00.000Z,1899-12-31T00:01:48.000Z,male,43,Western Cape,adults,Afternoon,108
+809056,Vuzu,2016-02-18T22:58:00.000Z,1899-12-31T00:00:27.500Z,male,43,Western Cape,adults,Night,27
+809056,Channel O,2016-02-12T17:32:00.000Z,1899-12-31T00:00:42.000Z,male,43,Western Cape,adults,Evening,42
+809056,Boomerang,2016-03-31T16:33:00.000Z,1899-12-31T00:01:10.000Z,male,43,Western Cape,adults,Afternoon,70
+809056,Channel O,2016-03-30T11:17:00.000Z,1899-12-31T00:01:12.000Z,male,43,Western Cape,adults,Morning,72
+809056,DStv Events 1,2016-03-26T22:47:00.000Z,1899-12-31T00:01:15.000Z,male,43,Western Cape,adults,Night,75
+809056,ICC Cricket World Cup 2011,2016-03-01T09:14:00.000Z,1899-12-31T00:03:44.000Z,male,43,Western Cape,adults,Morning,224
+809056,ICC Cricket World Cup 2011,2016-03-29T16:00:00.000Z,1899-12-31T00:24:42.000Z,male,43,Western Cape,adults,Afternoon,1482
+809056,CNN,2016-02-13T00:00:00.000Z,1899-12-31T00:00:17.000Z,male,43,Western Cape,adults,Night,17
+779505,Channel O,2016-02-06T18:53:00.000Z,1899-12-31T00:04:06.000Z,male,22,Gauteng,youth,Evening,246
+831826,SawSee,2016-02-28T07:48:00.000Z,1899-12-31T00:05:36.000Z,male,31,Eastern Cape,youth,Morning,336
+831826,ICC Cricket World Cup 2011,2016-02-28T12:29:00.000Z,1899-12-31T01:56:32.000Z,male,31,Eastern Cape,youth,Afternoon,6992
+939723,ICC Cricket World Cup 2011,2016-03-30T16:43:00.000Z,1899-12-31T00:12:24.000Z,male,31,Gauteng,youth,Afternoon,744
+764451,Trace TV,2016-01-11T13:11:00.000Z,1899-12-31T00:03:06.000Z,female,27,Gauteng,youth,Afternoon,186
+930111,Boomerang,2016-03-30T21:03:00.000Z,1899-12-31T00:00:00.000Z,male,29,Gauteng,youth,Night,0
+793693,SawSee,2016-02-15T06:37:00.000Z,1899-12-31T00:01:13.000Z,male,25,Gauteng,youth,Morning,73
+793693,Africa Magic,2016-02-15T07:11:00.000Z,1899-12-31T00:00:00.000Z,male,25,Gauteng,youth,Morning,0
+793693,Channel O,2016-02-19T08:42:00.000Z,1899-12-31T00:00:00.000Z,male,25,Gauteng,youth,Morning,0
+793693,Africa Magic,2016-02-14T08:18:00.000Z,1899-12-31T00:00:40.000Z,male,25,Gauteng,youth,Morning,40
+549032,SuperSport Blitz,2016-01-12T20:32:00.000Z,1899-12-31T00:01:34.000Z,male,42,Gauteng,adults,Evening,94
+549032,Boomerang,2016-01-12T21:33:00.000Z,1899-12-31T00:10:15.000Z,male,42,Gauteng,adults,Night,615
+597265,Cartoon Network,2016-01-09T10:30:00.000Z,1899-12-31T00:08:13.000Z,male,28,Gauteng,youth,Morning,493
+597265,Trace TV,2016-01-17T16:15:00.000Z,1899-12-31T02:03:12.000Z,male,28,Gauteng,youth,Afternoon,7392
+597265,Channel O,2016-01-08T13:31:00.000Z,1899-12-31T00:24:06.000Z,male,28,Gauteng,youth,Afternoon,1446
+806431,SuperSport Blitz,2016-02-02T18:34:00.000Z,1899-12-31T00:04:48.000Z,male,41,Eastern Cape,adults,Evening,288
+771924,Africa Magic,2016-02-09T09:55:00.000Z,1899-12-31T00:01:11.000Z,female,31,Gauteng,youth,Morning,71
+869019,ICC Cricket World Cup 2011,2016-03-15T10:43:00.000Z,1899-12-31T00:03:06.000Z,male,42,Gauteng,adults,Morning,186
+869019,Boomerang,2016-03-26T06:32:00.000Z,1899-12-31T00:00:33.000Z,male,42,Gauteng,adults,Morning,33
+789265,Boomerang,2016-02-08T23:09:00.000Z,1899-12-31T00:19:48.000Z,male,32,North West,youth,Night,1188
+882400,Supersport Live Events,2016-03-19T18:41:00.000Z,1899-12-31T00:02:38.000Z,male,24,Gauteng,youth,Evening,158
+918332,Supersport Live Events,2016-03-28T20:41:00.000Z,1899-12-31T00:01:44.000Z,female,23,Gauteng,youth,Evening,104
+918332,ICC Cricket World Cup 2011,2016-03-30T14:25:00.000Z,1899-12-31T00:02:00.000Z,female,23,Gauteng,youth,Afternoon,120
+918332,SuperSport Blitz,2016-03-29T08:47:00.000Z,1899-12-31T01:23:04.000Z,female,23,Gauteng,youth,Morning,4984
+809063,Trace TV,2016-02-20T12:58:00.000Z,1899-12-31T00:03:48.000Z,male,32,Gauteng,youth,Afternoon,228
+809063,SuperSport Blitz,2016-02-20T11:15:00.000Z,1899-12-31T00:00:08.000Z,male,32,Gauteng,youth,Morning,8
+809063,SuperSport Blitz,2016-02-24T07:00:00.000Z,1899-12-31T00:03:58.000Z,male,32,Gauteng,youth,Morning,238
+2368583,ICC Cricket World Cup 2011,2016-02-26T16:27:00.000Z,1899-12-31T00:01:32.000Z,male,27,Limpopo,youth,Afternoon,92
+2368583,Supersport Live Events,2016-02-19T09:13:00.000Z,1899-12-31T00:01:30.000Z,male,27,Limpopo,youth,Morning,90
+786181,SuperSport Blitz,2016-03-05T19:14:00.000Z,1899-12-31T00:02:48.000Z,male,27,Gauteng,youth,Evening,168
+2285716,Supersport Live Events,2016-03-24T14:48:00.000Z,1899-12-31T00:00:04.000Z,male,27,Gauteng,youth,Afternoon,4
+2285716,SuperSport Blitz,2016-03-29T17:47:00.000Z,1899-12-31T00:00:26.000Z,male,27,Gauteng,youth,Evening,26
+793697,SuperSport Blitz,2016-02-25T14:08:00.000Z,1899-12-31T00:01:16.000Z,male,55,Kwazulu Natal,adults,Afternoon,76
+939729,ICC Cricket World Cup 2011,2016-03-05T08:51:00.000Z,1899-12-31T00:13:44.000Z,male,34,Eastern Cape,youth,Morning,824
+939729,CNN,2016-03-12T20:22:00.000Z,1899-12-31T00:05:46.000Z,male,34,Eastern Cape,youth,Evening,346
+939732,CNN,2016-03-24T19:10:00.000Z,1899-12-31T00:05:52.000Z,male,33,Gauteng,youth,Evening,352
+939732,CNN,2016-03-30T22:38:00.000Z,1899-12-31T01:04:59.000Z,male,33,Gauteng,youth,Night,3899
+771927,Supersport Live Events,2016-01-31T09:08:00.000Z,1899-12-31T00:18:14.000Z,female,36,Western Cape,adults,Morning,1094
+771927,CNN,2016-01-29T16:32:00.000Z,1899-12-31T00:00:58.000Z,female,36,Western Cape,adults,Afternoon,58
+771927,SuperSport Blitz,2016-01-28T13:00:00.000Z,1899-12-31T00:17:14.000Z,female,36,Western Cape,adults,Afternoon,1034
+771927,Supersport Live Events,2016-02-01T08:12:00.000Z,1899-12-31T04:49:00.000Z,female,36,Western Cape,adults,Morning,17340
+771927,Supersport Live Events,2016-01-27T14:14:00.000Z,1899-12-31T00:01:18.000Z,female,36,Western Cape,adults,Afternoon,78
+771927,SuperSport Blitz,2016-01-27T05:55:00.000Z,1899-12-31T00:02:26.000Z,female,36,Western Cape,adults,Morning,146
+771927,Cartoon Network,2016-01-30T16:39:00.000Z,1899-12-31T00:01:38.000Z,female,36,Western Cape,adults,Afternoon,98
+432894,SuperSport Blitz,2016-01-08T03:10:00.000Z,1899-12-31T00:00:00.000Z,female,35,Mpumalanga,youth,Night,0
+492897,Channel O,2016-01-20T14:11:00.000Z,1899-12-31T00:14:06.000Z,male,23,Mpumalanga,youth,Afternoon,846
+492897,Trace TV,2016-01-18T23:01:00.000Z,1899-12-31T00:02:18.000Z,male,23,Mpumalanga,youth,Night,138
+894339,ICC Cricket World Cup 2011,2016-03-23T12:18:00.000Z,1899-12-31T00:00:00.000Z,male,35,Kwazulu Natal,youth,Afternoon,0
+930123,CNN,2016-03-31T09:49:00.000Z,1899-12-31T00:00:57.000Z,male,31,Gauteng,youth,Morning,57
+930123,SuperSport Blitz,2016-03-31T19:52:00.000Z,1899-12-31T00:21:32.000Z,male,31,Gauteng,youth,Evening,1292
+592732,Africa Magic,2016-01-13T05:04:00.000Z,1899-12-31T00:15:05.000Z,male,45,Limpopo,adults,Morning,905
+904340,E! Entertainment,2016-03-27T17:38:00.000Z,1899-12-31T00:00:42.000Z,male,28,Gauteng,youth,Evening,42
+904340,Vuzu,2016-03-27T17:45:00.000Z,1899-12-31T00:00:22.500Z,male,28,Gauteng,youth,Evening,22
+904340,E! Entertainment,2016-03-26T21:29:00.000Z,1899-12-31T00:00:00.000Z,male,28,Gauteng,youth,Night,0
+820491,Supersport Live Events,2016-03-01T04:12:00.000Z,1899-12-31T00:00:28.000Z,male,48,Gauteng,adults,Night,28
+859431,SawSee,2016-01-07T12:55:00.000Z,1899-12-31T00:00:28.000Z,male,42,Western Cape,adults,Afternoon,28
+820492,Trace TV,2016-01-11T05:47:00.000Z,1899-12-31T00:09:51.000Z,male,54,Limpopo,adults,Morning,591
+820492,CNN,2016-03-12T14:30:00.000Z,1899-12-31T00:00:00.000Z,male,54,Limpopo,adults,Afternoon,0
+820492,Africa Magic,2016-03-09T15:32:00.000Z,1899-12-31T00:02:38.500Z,male,54,Limpopo,adults,Afternoon,158
+71489,Supersport Live Events,2016-03-20T15:40:00.000Z,1899-12-31T00:00:00.000Z,male,25,Kwazulu Natal,youth,Afternoon,0
+892603,SuperSport Blitz,2016-03-22T20:00:00.000Z,1899-12-31T00:01:38.000Z,male,39,Eastern Cape,adults,Evening,98
+809071,Vuzu,2016-03-05T06:19:00.000Z,1899-12-31T00:01:40.000Z,male,35,Gauteng,youth,Morning,100
+809072,Boomerang,2016-02-22T08:15:00.000Z,1899-12-31T00:00:43.000Z,male,32,Kwazulu Natal,youth,Morning,43
+809072,Boomerang,2016-02-21T15:47:00.000Z,1899-12-31T00:00:27.000Z,male,32,Kwazulu Natal,youth,Afternoon,27
+809072,Channel O,2016-02-12T06:24:00.000Z,1899-12-31T00:25:45.000Z,male,32,Kwazulu Natal,youth,Morning,1545
+809076,Cartoon Network,2016-02-19T22:48:00.000Z,1899-12-31T00:04:43.000Z,male,27,Western Cape,youth,Night,283
+809076,Channel O,2016-02-19T16:47:00.000Z,1899-12-31T00:00:30.000Z,male,27,Western Cape,youth,Afternoon,30
+809076,ICC Cricket World Cup 2011,2016-02-20T07:16:00.000Z,1899-12-31T00:01:42.000Z,male,27,Western Cape,youth,Morning,102
+809076,Supersport Live Events,2016-02-20T07:20:00.000Z,1899-12-31T00:03:00.000Z,male,27,Western Cape,youth,Morning,180
+809076,Channel O,2016-02-19T05:55:00.000Z,1899-12-31T00:13:15.000Z,male,27,Western Cape,youth,Morning,795
+809076,Supersport Live Events,2016-02-19T06:22:00.000Z,1899-12-31T00:00:12.000Z,male,27,Western Cape,youth,Morning,12
+809076,Channel O,2016-03-08T12:30:00.000Z,1899-12-31T01:00:30.000Z,male,27,Western Cape,youth,Afternoon,3630
+809076,Supersport Live Events,2016-03-18T11:25:00.000Z,1899-12-31T00:10:10.000Z,male,27,Western Cape,youth,Morning,610
+809076,Africa Magic,2016-03-04T21:10:00.000Z,1899-12-31T00:03:58.000Z,male,27,Western Cape,youth,Night,238
+809076,Channel O,2016-03-04T23:03:00.000Z,1899-12-31T00:01:09.000Z,male,27,Western Cape,youth,Night,69
+809076,Boomerang,2016-02-18T05:53:00.000Z,1899-12-31T00:02:43.000Z,male,27,Western Cape,youth,Morning,163
+809076,Channel O,2016-02-18T06:14:00.000Z,1899-12-31T00:11:36.000Z,male,27,Western Cape,youth,Morning,696
+809076,Boomerang,2016-03-06T17:10:00.000Z,1899-12-31T00:02:25.000Z,male,27,Western Cape,youth,Evening,145
+809076,Africa Magic,2016-02-27T06:37:00.000Z,1899-12-31T00:02:44.500Z,male,27,Western Cape,youth,Morning,164
+809076,ICC Cricket World Cup 2011,2016-03-12T11:09:00.000Z,1899-12-31T00:05:00.000Z,male,27,Western Cape,youth,Morning,300
+809076,Supersport Live Events,2016-03-12T17:01:00.000Z,1899-12-31T00:00:44.000Z,male,27,Western Cape,youth,Evening,44
+809076,Channel O,2016-03-21T12:33:00.000Z,1899-12-31T00:05:18.000Z,male,27,Western Cape,youth,Afternoon,318
+918340,Boomerang,2016-03-28T10:26:00.000Z,1899-12-31T00:00:36.000Z,male,30,Gauteng,youth,Morning,36
+809079,Cartoon Network,2016-02-22T19:08:00.000Z,1899-12-31T00:00:08.000Z,male,30,Mpumalanga,youth,Evening,8
+809079,Africa Magic,2016-02-21T13:27:00.000Z,1899-12-31T00:00:16.500Z,male,30,Mpumalanga,youth,Afternoon,16
+809079,Boomerang,2016-02-21T17:15:00.000Z,1899-12-31T00:00:18.000Z,male,30,Mpumalanga,youth,Evening,18
+809079,SuperSport Blitz,2016-02-21T17:22:00.000Z,1899-12-31T00:00:42.000Z,male,30,Mpumalanga,youth,Evening,42
+820500,Supersport Live Events,2016-02-26T09:51:00.000Z,1899-12-31T00:00:08.000Z,female,26,Kwazulu Natal,youth,Morning,8
+819358,Trace TV,2016-02-26T20:38:00.000Z,1899-12-31T00:00:45.000Z,male,39,Western Cape,adults,Evening,45
+819358,ICC Cricket World Cup 2011,2016-03-02T11:59:00.000Z,1899-12-31T00:05:12.000Z,male,39,Western Cape,adults,Morning,312
+819358,Supersport Live Events,2016-03-19T16:24:00.000Z,1899-12-31T00:03:20.000Z,male,39,Western Cape,adults,Afternoon,200
+242356,ICC Cricket World Cup 2011,2016-03-01T09:03:00.000Z,1899-12-31T00:00:00.000Z,male,30,Gauteng,youth,Morning,0
+422095,ICC Cricket World Cup 2011,2016-03-30T14:24:00.000Z,1899-12-31T00:00:24.000Z,None,0,None,children,Afternoon,24
+859438,Channel O,2016-03-11T02:21:00.000Z,1899-12-31T00:00:39.000Z,male,26,Western Cape,youth,Night,39
+830921,Trace TV,2016-03-03T19:24:00.000Z,1899-12-31T00:01:15.000Z,male,22,Eastern Cape,youth,Evening,75
+866295,ICC Cricket World Cup 2011,2016-03-15T11:01:00.000Z,1899-12-31T00:46:48.000Z,male,43,Gauteng,adults,Morning,2808
+830923,Trace TV,2016-03-03T09:16:00.000Z,1899-12-31T00:29:12.000Z,male,31,Western Cape,youth,Morning,1752
+830923,E! Entertainment,2016-03-03T15:09:00.000Z,1899-12-31T00:00:54.000Z,male,31,Western Cape,youth,Afternoon,54
+830923,Trace TV,2016-03-04T12:30:00.000Z,1899-12-31T00:13:21.000Z,male,31,Western Cape,youth,Afternoon,801
+173765,Trace TV,2016-01-08T07:29:00.000Z,1899-12-31T00:01:03.000Z,None,0,None,children,Morning,63
+1324574,Trace TV,2016-03-05T01:39:00.000Z,1899-12-31T00:00:00.000Z,male,39,Gauteng,adults,Night,0
+939753,SawSee,2016-03-19T11:38:00.000Z,1899-12-31T00:00:08.000Z,male,43,Western Cape,adults,Morning,8
+86703,Supersport Live Events,2016-03-19T22:08:00.000Z,1899-12-31T00:00:00.000Z,male,24,Gauteng,youth,Night,0
+809081,Supersport Live Events,2016-02-20T14:36:00.000Z,1899-12-31T00:00:52.000Z,male,23,Gauteng,youth,Afternoon,52
+809081,Africa Magic,2016-02-18T19:48:00.000Z,1899-12-31T00:01:56.000Z,male,23,Gauteng,youth,Evening,116
+809081,Africa Magic,2016-02-21T20:17:00.000Z,1899-12-31T00:00:09.000Z,male,23,Gauteng,youth,Evening,9
+809081,Africa Magic,2016-03-09T17:24:00.000Z,1899-12-31T00:00:06.500Z,male,23,Gauteng,youth,Evening,6
+866302,SuperSport Blitz,2016-03-13T19:10:00.000Z,1899-12-31T00:02:22.000Z,male,45,Western Cape,adults,Evening,142
+866302,Trace TV,2016-03-19T12:08:00.000Z,1899-12-31T00:11:00.000Z,male,45,Western Cape,adults,Afternoon,660
+866302,SuperSport Blitz,2016-03-30T09:58:00.000Z,1899-12-31T00:01:42.000Z,male,45,Western Cape,adults,Morning,102
+788787,Cartoon Network,2016-03-04T12:09:00.000Z,1899-12-31T00:00:37.000Z,male,19,Northern Cape,youth,Afternoon,37
+788787,CNN,2016-03-07T20:46:00.000Z,1899-12-31T00:00:28.000Z,male,19,Northern Cape,youth,Evening,28
+788788,Africa Magic,2016-02-03T17:41:00.000Z,1899-12-31T00:04:08.000Z,male,40,Kwazulu Natal,adults,Evening,248
+809083,SuperSport Blitz,2016-02-25T12:46:00.000Z,1899-12-31T00:18:40.000Z,male,40,Gauteng,adults,Afternoon,1120
+809083,SawSee,2016-02-22T23:29:00.000Z,1899-12-31T00:01:44.000Z,male,40,Gauteng,adults,Night,104
+820513,Africa Magic,2016-03-02T14:01:00.000Z,1899-12-31T00:04:38.000Z,male,13,Western Cape,children,Afternoon,278
+820513,Trace TV,2016-03-03T19:26:00.000Z,1899-12-31T00:08:15.000Z,male,13,Western Cape,children,Evening,495
+820513,Break in transmission,2016-02-27T19:05:00.000Z,1899-12-31T00:00:22.000Z,male,13,Western Cape,children,Evening,22
+820513,Channel O,2016-03-16T20:23:00.000Z,1899-12-31T00:00:27.000Z,male,13,Western Cape,children,Evening,27
+820513,Channel O,2016-03-16T20:25:00.000Z,1899-12-31T00:00:54.000Z,male,13,Western Cape,children,Evening,54
+820513,Trace TV,2016-03-15T17:47:00.000Z,1899-12-31T00:15:51.000Z,male,13,Western Cape,children,Evening,951
+820513,Channel O,2016-03-09T14:14:00.000Z,1899-12-31T00:14:36.000Z,male,13,Western Cape,children,Afternoon,876
+820513,Trace TV,2016-03-03T05:25:00.000Z,1899-12-31T00:17:00.000Z,male,13,Western Cape,children,Morning,1020
+820513,SuperSport Blitz,2016-03-03T05:26:00.000Z,1899-12-31T00:23:22.000Z,male,13,Western Cape,children,Morning,1402
+820513,Channel O,2016-03-21T20:38:00.000Z,1899-12-31T00:01:18.000Z,male,13,Western Cape,children,Evening,78
+771941,Channel O,2016-01-10T16:07:00.000Z,1899-12-31T00:01:42.000Z,male,24,Western Cape,youth,Afternoon,102
+771941,Channel O,2016-01-31T21:05:00.000Z,1899-12-31T00:08:03.000Z,male,24,Western Cape,youth,Night,483
+771941,Trace TV,2016-01-11T03:44:00.000Z,1899-12-31T00:23:33.000Z,male,24,Western Cape,youth,Night,1413
+771941,Channel O,2016-01-30T19:56:00.000Z,1899-12-31T00:52:54.000Z,male,24,Western Cape,youth,Evening,3174
+771941,Trace TV,2016-01-25T20:01:00.000Z,1899-12-31T00:08:21.000Z,male,24,Western Cape,youth,Evening,501
+771941,DStv Events 1,2016-01-11T06:12:00.000Z,1899-12-31T00:03:25.000Z,male,24,Western Cape,youth,Morning,205
+809085,Channel O,2016-02-21T07:30:00.000Z,1899-12-31T00:00:30.000Z,male,28,Gauteng,youth,Morning,30
+809085,Channel O,2016-02-20T09:18:00.000Z,1899-12-31T00:00:00.000Z,male,28,Gauteng,youth,Morning,0
+809085,Supersport Live Events,2016-03-13T14:15:00.000Z,1899-12-31T00:05:56.000Z,male,28,Gauteng,youth,Afternoon,356
+809085,SuperSport Blitz,2016-02-02T19:11:00.000Z,1899-12-31T00:00:30.000Z,male,28,Gauteng,youth,Evening,30
+809085,Channel O,2016-03-11T05:21:00.000Z,1899-12-31T00:00:24.000Z,male,28,Gauteng,youth,Morning,24
+809085,Trace TV,2016-01-20T22:16:00.000Z,1899-12-31T00:07:51.000Z,male,28,Gauteng,youth,Night,471
+809085,Channel O,2016-01-11T07:11:00.000Z,1899-12-31T00:00:30.000Z,male,28,Gauteng,youth,Morning,30
+809085,SuperSport Blitz,2016-01-30T19:11:00.000Z,1899-12-31T00:00:00.000Z,male,28,Gauteng,youth,Evening,0
+809085,Boomerang,2016-02-27T07:49:00.000Z,1899-12-31T00:05:54.000Z,male,28,Gauteng,youth,Morning,354
+809085,ICC Cricket World Cup 2011,2016-03-15T15:42:00.000Z,1899-12-31T00:02:44.000Z,male,28,Gauteng,youth,Afternoon,164
+809085,CNN,2016-03-01T19:48:00.000Z,1899-12-31T00:01:01.000Z,male,28,Gauteng,youth,Evening,61
+764468,Channel O,2016-02-02T06:59:00.000Z,1899-12-31T00:02:09.000Z,male,34,Gauteng,youth,Morning,129
+2368619,Africa Magic,2016-01-15T15:44:00.000Z,1899-12-31T00:06:47.000Z,male,23,North West,youth,Afternoon,407
+809087,Channel O,2016-01-13T17:50:00.000Z,1899-12-31T00:01:57.000Z,male,9,Eastern Cape,children,Evening,117
+809087,Supersport Live Events,2016-01-16T14:38:00.000Z,1899-12-31T00:00:50.000Z,male,9,Eastern Cape,children,Afternoon,50
+809087,SuperSport Blitz,2016-01-14T17:06:00.000Z,1899-12-31T00:06:44.000Z,male,9,Eastern Cape,children,Evening,404
+809087,SuperSport Blitz,2016-01-12T13:07:00.000Z,1899-12-31T00:01:50.000Z,male,9,Eastern Cape,children,Afternoon,110
+771945,Trace TV,2016-02-07T19:02:00.000Z,1899-12-31T00:14:33.000Z,male,32,Kwazulu Natal,youth,Evening,873
+771945,SawSee,2016-01-28T19:40:00.000Z,1899-12-31T00:00:36.000Z,male,32,Kwazulu Natal,youth,Evening,36
+771945,Africa Magic,2016-01-27T09:27:00.000Z,1899-12-31T00:00:52.500Z,male,32,Kwazulu Natal,youth,Morning,52
+771945,M-Net,2016-01-27T08:14:00.000Z,1899-12-31T00:00:16.000Z,male,32,Kwazulu Natal,youth,Morning,16
+771945,SuperSport Blitz,2016-03-28T13:46:00.000Z,1899-12-31T00:09:40.000Z,male,32,Kwazulu Natal,youth,Afternoon,580
+820518,CNN,2016-01-07T17:11:00.000Z,1899-12-31T00:00:18.000Z,male,30,Gauteng,youth,Evening,18
+788792,Africa Magic,2016-01-29T05:10:00.000Z,1899-12-31T00:00:11.500Z,female,36,Gauteng,adults,Morning,11
+788792,Africa Magic,2016-01-16T11:27:00.000Z,1899-12-31T00:02:33.000Z,female,36,Gauteng,adults,Morning,153
+788792,Cartoon Network,2016-03-31T19:10:00.000Z,1899-12-31T00:31:48.000Z,female,36,Gauteng,adults,Evening,1908
+788792,Africa Magic,2016-02-28T12:22:00.000Z,1899-12-31T00:00:02.000Z,female,36,Gauteng,adults,Afternoon,2
+939765,Africa Magic,2016-03-24T07:04:00.000Z,1899-12-31T00:00:51.500Z,male,39,Gauteng,adults,Morning,51
+939766,Trace TV,2016-03-21T22:48:00.000Z,1899-12-31T00:39:15.000Z,male,22,Gauteng,youth,Night,2355
+939766,Channel O,2016-03-20T14:01:00.000Z,1899-12-31T00:52:42.000Z,male,22,Gauteng,youth,Afternoon,3162
+789360,Boomerang,2016-02-13T10:28:00.000Z,1899-12-31T00:07:16.000Z,male,24,Mpumalanga,youth,Morning,436
+866310,Supersport Live Events,2016-03-13T16:44:00.000Z,1899-12-31T00:19:48.000Z,male,35,Gauteng,youth,Afternoon,1188
+866310,Supersport Live Events,2016-03-18T19:32:00.000Z,1899-12-31T00:01:28.000Z,male,35,Gauteng,youth,Evening,88
+788794,Cartoon Network,2016-02-11T18:38:00.000Z,1899-12-31T00:06:19.000Z,male,24,Limpopo,youth,Evening,379
+788794,Channel O,2016-02-10T10:41:00.000Z,1899-12-31T00:09:54.000Z,male,24,Limpopo,youth,Morning,594
+788794,Supersport Live Events,2016-02-06T20:53:00.000Z,1899-12-31T00:10:22.000Z,male,24,Limpopo,youth,Evening,622
+788794,SuperSport Live Events,2016-02-13T21:02:00.000Z,1899-12-31T00:00:40.000Z,male,24,Limpopo,youth,Night,40
+997491,ICC Cricket World Cup 2011,2016-03-06T20:03:00.000Z,1899-12-31T00:00:00.000Z,male,29,Western Cape,youth,Evening,0
+997491,Supersport Live Events,2016-03-07T20:10:00.000Z,1899-12-31T00:00:00.000Z,male,29,Western Cape,youth,Evening,0
+809091,Trace TV,2016-02-11T20:56:00.000Z,1899-12-31T00:00:27.000Z,male,51,Gauteng,adults,Evening,27

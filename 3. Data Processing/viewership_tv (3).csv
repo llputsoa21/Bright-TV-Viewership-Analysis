@@ -1,0 +1,460 @@
+Province,month,channel,total_seconds_viewed
+Eastern Cape,2016-03,ICC Cricket World Cup 2011,71646
+Eastern Cape,2016-03,Supersport Live Events,61020
+Eastern Cape,2016-03,Channel O,25272
+Eastern Cape,2016-03,Trace TV,14997
+Eastern Cape,2016-03,SuperSport Blitz,7364
+Eastern Cape,2016-03,Cartoon Network,6830
+Eastern Cape,2016-03,E! Entertainment,5582
+Eastern Cape,2016-03,Boomerang,5505
+Eastern Cape,2016-03,CNN,2321
+Eastern Cape,2016-03,Africa Magic,1857
+Eastern Cape,2016-03,SawSee,926
+Eastern Cape,2016-03,MK,71
+Eastern Cape,2016-03,M-Net,65
+Eastern Cape,2016-03,DStv Events 1,45
+Eastern Cape,2016-03,Vuzu,31
+Eastern Cape,2016-03,Break in transmission,10
+Eastern Cape,2016-03,SuperSport Live Events,10
+Free State,2016-03,ICC Cricket World Cup 2011,63956
+Free State,2016-03,Channel O,20889
+Free State,2016-03,Trace TV,19248
+Free State,2016-03,Supersport Live Events,10274
+Free State,2016-03,Boomerang,5838
+Free State,2016-03,SuperSport Blitz,3124
+Free State,2016-03,Africa Magic,1882
+Free State,2016-03,Cartoon Network,1264
+Free State,2016-03,CNN,549
+Free State,2016-03,M-Net,360
+Free State,2016-03,DStv Events 1,90
+Free State,2016-03,MK,83
+Free State,2016-03,E! Entertainment,66
+Free State,2016-03,kykNET,66
+Free State,2016-03,SawSee,22
+Free State,2016-03,Vuzu,16
+Gauteng,2016-03,ICC Cricket World Cup 2011,536268
+Gauteng,2016-03,Supersport Live Events,230594
+Gauteng,2016-03,Trace TV,114696
+Gauteng,2016-03,Channel O,107469
+Gauteng,2016-03,SuperSport Blitz,56275
+Gauteng,2016-03,CNN,45402
+Gauteng,2016-03,Boomerang,45077
+Gauteng,2016-03,Cartoon Network,35067
+Gauteng,2016-03,E! Entertainment,22854
+Gauteng,2016-03,Africa Magic,18395
+Gauteng,2016-03,SawSee,7439
+Gauteng,2016-03,DStv Events 1,2210
+Gauteng,2016-03,M-Net,1746
+Gauteng,2016-03,Vuzu,1414
+Gauteng,2016-03,kykNET,861
+Gauteng,2016-03,SuperSport Live Events,104
+Gauteng,2016-03,Break in transmission,86
+Gauteng,2016-03,MK,83
+Kwazulu Natal,2016-03,ICC Cricket World Cup 2011,101596
+Kwazulu Natal,2016-03,Supersport Live Events,51796
+Kwazulu Natal,2016-03,Channel O,43056
+Kwazulu Natal,2016-03,Trace TV,32913
+Kwazulu Natal,2016-03,SuperSport Blitz,24699
+Kwazulu Natal,2016-03,Cartoon Network,11572
+Kwazulu Natal,2016-03,Boomerang,9870
+Kwazulu Natal,2016-03,Africa Magic,7223
+Kwazulu Natal,2016-03,CNN,5672
+Kwazulu Natal,2016-03,SawSee,2139
+Kwazulu Natal,2016-03,M-Net,618
+Kwazulu Natal,2016-03,kykNET,606
+Kwazulu Natal,2016-03,E! Entertainment,522
+Kwazulu Natal,2016-03,Break in transmission,476
+Kwazulu Natal,2016-03,Vuzu,251
+Kwazulu Natal,2016-03,DStv Events 1,180
+Kwazulu Natal,2016-03,MK,134
+Limpopo,2016-03,ICC Cricket World Cup 2011,121936
+Limpopo,2016-03,Supersport Live Events,36036
+Limpopo,2016-03,Trace TV,14883
+Limpopo,2016-03,Channel O,10929
+Limpopo,2016-03,SuperSport Blitz,10036
+Limpopo,2016-03,Africa Magic,4693
+Limpopo,2016-03,Boomerang,4275
+Limpopo,2016-03,CNN,4137
+Limpopo,2016-03,E! Entertainment,3700
+Limpopo,2016-03,DStv Events 1,2700
+Limpopo,2016-03,Cartoon Network,2415
+Limpopo,2016-03,SawSee,1834
+Limpopo,2016-03,M-Net,232
+Limpopo,2016-03,MK,92
+Limpopo,2016-03,Vuzu,8
+Mpumalanga,2016-03,ICC Cricket World Cup 2011,61698
+Mpumalanga,2016-03,Supersport Live Events,35810
+Mpumalanga,2016-03,Channel O,19110
+Mpumalanga,2016-03,Trace TV,16824
+Mpumalanga,2016-03,CNN,16327
+Mpumalanga,2016-03,SuperSport Blitz,11943
+Mpumalanga,2016-03,Cartoon Network,8818
+Mpumalanga,2016-03,Africa Magic,8589
+Mpumalanga,2016-03,Boomerang,5348
+Mpumalanga,2016-03,E! Entertainment,3404
+Mpumalanga,2016-03,SawSee,1708
+Mpumalanga,2016-03,M-Net,336
+Mpumalanga,2016-03,DStv Events 1,315
+Mpumalanga,2016-03,kykNET,207
+Mpumalanga,2016-03,MK,199
+Mpumalanga,2016-03,Vuzu,148
+None,2016-03,ICC Cricket World Cup 2011,53736
+None,2016-03,Channel O,20616
+None,2016-03,Supersport Live Events,13094
+None,2016-03,Boomerang,7289
+None,2016-03,Cartoon Network,5257
+None,2016-03,SuperSport Blitz,3072
+None,2016-03,CNN,2554
+None,2016-03,Africa Magic,2216
+None,2016-03,E! Entertainment,1546
+None,2016-03,Trace TV,1038
+None,2016-03,SawSee,928
+None,2016-03,kykNET,228
+None,2016-03,DStv Events 1,225
+None,2016-03,MK,162
+None,2016-03,M-Net,30
+None,2016-03,Vuzu,0
+None,2016-03,Break in transmission,0
+North West,2016-03,ICC Cricket World Cup 2011,15922
+North West,2016-03,Channel O,14022
+North West,2016-03,E! Entertainment,10802
+North West,2016-03,Trace TV,7467
+North West,2016-03,CNN,7404
+North West,2016-03,Supersport Live Events,6476
+North West,2016-03,SuperSport Blitz,6118
+North West,2016-03,Cartoon Network,5278
+North West,2016-03,Boomerang,2830
+North West,2016-03,SawSee,2386
+North West,2016-03,Africa Magic,1018
+North West,2016-03,kykNET,708
+North West,2016-03,M-Net,372
+North West,2016-03,DStv Events 1,125
+Northern Cape,2016-03,ICC Cricket World Cup 2011,13572
+Northern Cape,2016-03,Channel O,10566
+Northern Cape,2016-03,Trace TV,10314
+Northern Cape,2016-03,Cartoon Network,6023
+Northern Cape,2016-03,Africa Magic,5119
+Northern Cape,2016-03,CNN,2870
+Northern Cape,2016-03,Boomerang,2603
+Northern Cape,2016-03,SuperSport Blitz,2572
+Northern Cape,2016-03,E! Entertainment,1406
+Northern Cape,2016-03,Supersport Live Events,774
+Northern Cape,2016-03,SawSee,131
+Northern Cape,2016-03,M-Net,79
+Northern Cape,2016-03,Vuzu,33
+Northern Cape,2016-03,Break in transmission,28
+Northern Cape,2016-03,MK,21
+Northern Cape,2016-03,DStv Events 1,0
+Western Cape,2016-03,ICC Cricket World Cup 2011,219910
+Western Cape,2016-03,Supersport Live Events,98000
+Western Cape,2016-03,Trace TV,61866
+Western Cape,2016-03,SuperSport Blitz,35176
+Western Cape,2016-03,Channel O,25149
+Western Cape,2016-03,Cartoon Network,22575
+Western Cape,2016-03,Boomerang,16876
+Western Cape,2016-03,CNN,13521
+Western Cape,2016-03,E! Entertainment,8296
+Western Cape,2016-03,Africa Magic,4424
+Western Cape,2016-03,kykNET,2142
+Western Cape,2016-03,Break in transmission,1704
+Western Cape,2016-03,M-Net,852
+Western Cape,2016-03,SawSee,850
+Western Cape,2016-03,DStv Events 1,225
+Western Cape,2016-03,Vuzu,192
+Eastern Cape,2016-02,Channel O,36543
+Eastern Cape,2016-02,ICC Cricket World Cup 2011,24738
+Eastern Cape,2016-02,Supersport Live Events,8194
+Eastern Cape,2016-02,Cartoon Network,7534
+Eastern Cape,2016-02,Trace TV,6297
+Eastern Cape,2016-02,SuperSport Blitz,6228
+Eastern Cape,2016-02,CNN,6087
+Eastern Cape,2016-02,Africa Magic,2775
+Eastern Cape,2016-02,Boomerang,2556
+Eastern Cape,2016-02,SawSee,568
+Eastern Cape,2016-02,E! Entertainment,498
+Eastern Cape,2016-02,kykNET,174
+Eastern Cape,2016-02,DStv Events 1,150
+Eastern Cape,2016-02,SuperSport Live Events,62
+Eastern Cape,2016-02,Break in transmission,19
+Free State,2016-02,SuperSport Blitz,12132
+Free State,2016-02,Channel O,6441
+Free State,2016-02,Supersport Live Events,3286
+Free State,2016-02,E! Entertainment,1876
+Free State,2016-02,Trace TV,1695
+Free State,2016-02,CNN,1335
+Free State,2016-02,Boomerang,1321
+Free State,2016-02,ICC Cricket World Cup 2011,1080
+Free State,2016-02,Africa Magic,1023
+Free State,2016-02,Cartoon Network,445
+Free State,2016-02,SawSee,188
+Free State,2016-02,Break in transmission,13
+Gauteng,2016-02,Supersport Live Events,124378
+Gauteng,2016-02,Channel O,100848
+Gauteng,2016-02,ICC Cricket World Cup 2011,64114
+Gauteng,2016-02,Trace TV,40056
+Gauteng,2016-02,CNN,25489
+Gauteng,2016-02,SuperSport Blitz,23086
+Gauteng,2016-02,Boomerang,21459
+Gauteng,2016-02,Cartoon Network,20830
+Gauteng,2016-02,E! Entertainment,16504
+Gauteng,2016-02,Africa Magic,15654
+Gauteng,2016-02,SawSee,2254
+Gauteng,2016-02,M-Net,1325
+Gauteng,2016-02,Vuzu,1098
+Gauteng,2016-02,DStv Events 1,885
+Gauteng,2016-02,kykNET,693
+Gauteng,2016-02,SuperSport Live Events,492
+Gauteng,2016-02,Sawsee,490
+Gauteng,2016-02,Break in transmission,355
+Gauteng,2016-02,Live on SuperSport,282
+Gauteng,2016-02,MK,49
+Gauteng,2016-02,Wimbledon,15
+Kwazulu Natal,2016-02,Trace TV,41862
+Kwazulu Natal,2016-02,Channel O,28233
+Kwazulu Natal,2016-02,Supersport Live Events,28198
+Kwazulu Natal,2016-02,Boomerang,8046
+Kwazulu Natal,2016-02,Africa Magic,7890
+Kwazulu Natal,2016-02,SuperSport Blitz,7195
+Kwazulu Natal,2016-02,ICC Cricket World Cup 2011,5276
+Kwazulu Natal,2016-02,Cartoon Network,5252
+Kwazulu Natal,2016-02,E! Entertainment,3300
+Kwazulu Natal,2016-02,CNN,1461
+Kwazulu Natal,2016-02,SawSee,1442
+Kwazulu Natal,2016-02,M-Net,883
+Kwazulu Natal,2016-02,Vuzu,338
+Kwazulu Natal,2016-02,SuperSport Live Events,200
+Kwazulu Natal,2016-02,DStv Events 1,175
+Kwazulu Natal,2016-02,Break in transmission,60
+Kwazulu Natal,2016-02,kykNET,36
+Kwazulu Natal,2016-02,Sawsee,0
+Limpopo,2016-02,ICC Cricket World Cup 2011,41728
+Limpopo,2016-02,Supersport Live Events,24550
+Limpopo,2016-02,SuperSport Blitz,11128
+Limpopo,2016-02,Channel O,8733
+Limpopo,2016-02,Africa Magic,8136
+Limpopo,2016-02,Trace TV,6447
+Limpopo,2016-02,E! Entertainment,4700
+Limpopo,2016-02,Boomerang,3422
+Limpopo,2016-02,Cartoon Network,2526
+Limpopo,2016-02,CNN,830
+Limpopo,2016-02,SawSee,362
+Limpopo,2016-02,M-Net,147
+Limpopo,2016-02,Vuzu,81
+Limpopo,2016-02,SuperSport Live Events,40
+Limpopo,2016-02,MK,31
+Mpumalanga,2016-02,CNN,35934
+Mpumalanga,2016-02,Supersport Live Events,29340
+Mpumalanga,2016-02,Trace TV,29313
+Mpumalanga,2016-02,ICC Cricket World Cup 2011,27078
+Mpumalanga,2016-02,Channel O,18993
+Mpumalanga,2016-02,Boomerang,9536
+Mpumalanga,2016-02,Cartoon Network,9204
+Mpumalanga,2016-02,Africa Magic,4947
+Mpumalanga,2016-02,SuperSport Blitz,4204
+Mpumalanga,2016-02,E! Entertainment,912
+Mpumalanga,2016-02,SawSee,343
+Mpumalanga,2016-02,DStv Events 1,210
+Mpumalanga,2016-02,M-Net,156
+Mpumalanga,2016-02,Vuzu,100
+Mpumalanga,2016-02,MK,91
+Mpumalanga,2016-02,Sawsee,48
+Mpumalanga,2016-02,Break in transmission,29
+Mpumalanga,2016-02,SuperSport Live Events,24
+None,2016-02,ICC Cricket World Cup 2011,3012
+None,2016-02,Trace TV,765
+None,2016-02,SuperSport Blitz,94
+None,2016-02,Break in transmission,46
+None,2016-02,CNN,23
+None,2016-02,Supersport Live Events,16
+None,2016-02,Channel O,0
+None,2016-02,SawSee,0
+None,2016-02,Africa Magic,0
+None,2016-02,Boomerang,0
+None,2016-02,Cartoon Network,0
+North West,2016-02,Channel O,13371
+North West,2016-02,SuperSport Blitz,7805
+North West,2016-02,Trace TV,6174
+North West,2016-02,Africa Magic,5401
+North West,2016-02,Supersport Live Events,2020
+North West,2016-02,Boomerang,1947
+North West,2016-02,CNN,1299
+North West,2016-02,ICC Cricket World Cup 2011,1030
+North West,2016-02,M-Net,739
+North West,2016-02,Cartoon Network,657
+North West,2016-02,DStv Events 1,240
+North West,2016-02,MK,196
+North West,2016-02,E! Entertainment,176
+North West,2016-02,SawSee,174
+North West,2016-02,Vuzu,75
+Northern Cape,2016-02,Trace TV,9723
+Northern Cape,2016-02,Channel O,8376
+Northern Cape,2016-02,Supersport Live Events,4808
+Northern Cape,2016-02,Africa Magic,2551
+Northern Cape,2016-02,Cartoon Network,1706
+Northern Cape,2016-02,ICC Cricket World Cup 2011,1212
+Northern Cape,2016-02,SuperSport Blitz,870
+Northern Cape,2016-02,Boomerang,755
+Northern Cape,2016-02,E! Entertainment,370
+Northern Cape,2016-02,SuperSport Live Events,160
+Northern Cape,2016-02,DStv Events 1,145
+Northern Cape,2016-02,SawSee,132
+Northern Cape,2016-02,Vuzu,83
+Northern Cape,2016-02,CNN,54
+Northern Cape,2016-02,Break in transmission,22
+Northern Cape,2016-02,M-Net,13
+Northern Cape,2016-02,kykNET,0
+Western Cape,2016-02,Supersport Live Events,93770
+Western Cape,2016-02,ICC Cricket World Cup 2011,54144
+Western Cape,2016-02,Trace TV,51801
+Western Cape,2016-02,Channel O,30087
+Western Cape,2016-02,CNN,19665
+Western Cape,2016-02,SuperSport Blitz,19099
+Western Cape,2016-02,Boomerang,15934
+Western Cape,2016-02,E! Entertainment,14970
+Western Cape,2016-02,Cartoon Network,12255
+Western Cape,2016-02,Africa Magic,5107
+Western Cape,2016-02,M-Net,1254
+Western Cape,2016-02,SawSee,633
+Western Cape,2016-02,DStv Events 1,585
+Western Cape,2016-02,kykNET,387
+Western Cape,2016-02,Break in transmission,362
+Western Cape,2016-02,SuperSport Live Events,270
+Western Cape,2016-02,Sawsee,138
+Western Cape,2016-02,Vuzu,115
+Western Cape,2016-02,MK,42
+Western Cape,2016-02,Wimbledon,16
+Eastern Cape,2016-01,Trace TV,30291
+Eastern Cape,2016-01,Supersport Live Events,18972
+Eastern Cape,2016-01,Boomerang,17474
+Eastern Cape,2016-01,Cartoon Network,13338
+Eastern Cape,2016-01,Channel O,13041
+Eastern Cape,2016-01,SuperSport Blitz,10532
+Eastern Cape,2016-01,Africa Magic,2447
+Eastern Cape,2016-01,E! Entertainment,2358
+Eastern Cape,2016-01,CNN,1169
+Eastern Cape,2016-01,DStv Events 1,365
+Eastern Cape,2016-01,Vuzu,230
+Eastern Cape,2016-01,M-Net,212
+Eastern Cape,2016-01,SawSee,169
+Free State,2016-01,Trace TV,16119
+Free State,2016-01,Boomerang,3687
+Free State,2016-01,Channel O,3492
+Free State,2016-01,Supersport Live Events,2956
+Free State,2016-01,SuperSport Blitz,1010
+Free State,2016-01,kykNET,711
+Free State,2016-01,Cartoon Network,597
+Free State,2016-01,E! Entertainment,596
+Free State,2016-01,M-Net,291
+Free State,2016-01,Africa Magic,193
+Free State,2016-01,DStv Events 1,135
+Free State,2016-01,CNN,116
+Free State,2016-01,SawSee,107
+Free State,2016-01,MK,46
+Gauteng,2016-01,Supersport Live Events,66842
+Gauteng,2016-01,Trace TV,57291
+Gauteng,2016-01,Channel O,41091
+Gauteng,2016-01,Africa Magic,33668
+Gauteng,2016-01,Cartoon Network,28253
+Gauteng,2016-01,CNN,24689
+Gauteng,2016-01,Boomerang,18987
+Gauteng,2016-01,SuperSport Blitz,16444
+Gauteng,2016-01,E! Entertainment,9514
+Gauteng,2016-01,SawSee,4069
+Gauteng,2016-01,DStv Events 1,2815
+Gauteng,2016-01,kykNET,1425
+Gauteng,2016-01,M-Net,900
+Gauteng,2016-01,Vuzu,472
+Gauteng,2016-01,MK,37
+Kwazulu Natal,2016-01,Supersport Live Events,48856
+Kwazulu Natal,2016-01,Trace TV,24783
+Kwazulu Natal,2016-01,Channel O,18702
+Kwazulu Natal,2016-01,Cartoon Network,12553
+Kwazulu Natal,2016-01,CNN,7538
+Kwazulu Natal,2016-01,SuperSport Blitz,6524
+Kwazulu Natal,2016-01,Boomerang,5295
+Kwazulu Natal,2016-01,E! Entertainment,5274
+Kwazulu Natal,2016-01,SawSee,3557
+Kwazulu Natal,2016-01,Africa Magic,1925
+Kwazulu Natal,2016-01,DStv Events 1,890
+Kwazulu Natal,2016-01,MK,470
+Kwazulu Natal,2016-01,M-Net,16
+Limpopo,2016-01,Channel O,14199
+Limpopo,2016-01,Trace TV,9297
+Limpopo,2016-01,Africa Magic,5546
+Limpopo,2016-01,SuperSport Blitz,4640
+Limpopo,2016-01,Supersport Live Events,4136
+Limpopo,2016-01,E! Entertainment,2612
+Limpopo,2016-01,Boomerang,2220
+Limpopo,2016-01,Cartoon Network,1211
+Limpopo,2016-01,SawSee,1050
+Limpopo,2016-01,CNN,516
+Limpopo,2016-01,M-Net,372
+Limpopo,2016-01,DStv Events 1,165
+Limpopo,2016-01,MK,12
+Limpopo,2016-01,Vuzu,11
+Limpopo,2016-01,kykNET,0
+Mpumalanga,2016-01,Supersport Live Events,26044
+Mpumalanga,2016-01,Channel O,21591
+Mpumalanga,2016-01,Trace TV,18747
+Mpumalanga,2016-01,Africa Magic,13035
+Mpumalanga,2016-01,Boomerang,11897
+Mpumalanga,2016-01,Cartoon Network,9476
+Mpumalanga,2016-01,SuperSport Blitz,4604
+Mpumalanga,2016-01,CNN,1410
+Mpumalanga,2016-01,M-Net,791
+Mpumalanga,2016-01,E! Entertainment,728
+Mpumalanga,2016-01,DStv Events 1,540
+Mpumalanga,2016-01,SawSee,381
+Mpumalanga,2016-01,Vuzu,145
+None,2016-01,SuperSport Blitz,4296
+None,2016-01,Channel O,1848
+None,2016-01,Trace TV,1653
+None,2016-01,E! Entertainment,1482
+None,2016-01,CNN,1336
+None,2016-01,DStv Events 1,795
+None,2016-01,Africa Magic,737
+None,2016-01,Cartoon Network,578
+None,2016-01,Boomerang,463
+None,2016-01,Supersport Live Events,424
+None,2016-01,M-Net,364
+None,2016-01,MK,361
+None,2016-01,kykNET,177
+None,2016-01,Vuzu,46
+North West,2016-01,Channel O,11178
+North West,2016-01,Supersport Live Events,5952
+North West,2016-01,Trace TV,4839
+North West,2016-01,SuperSport Blitz,3750
+North West,2016-01,Boomerang,3012
+North West,2016-01,Africa Magic,2418
+North West,2016-01,DStv Events 1,970
+North West,2016-01,E! Entertainment,902
+North West,2016-01,Cartoon Network,744
+North West,2016-01,CNN,376
+North West,2016-01,Vuzu,93
+North West,2016-01,SawSee,38
+North West,2016-01,M-Net,35
+Northern Cape,2016-01,Channel O,2979
+Northern Cape,2016-01,Trace TV,2949
+Northern Cape,2016-01,Cartoon Network,2091
+Northern Cape,2016-01,Supersport Live Events,1144
+Northern Cape,2016-01,SawSee,976
+Northern Cape,2016-01,Africa Magic,907
+Northern Cape,2016-01,Boomerang,843
+Northern Cape,2016-01,M-Net,507
+Northern Cape,2016-01,MK,99
+Northern Cape,2016-01,E! Entertainment,0
+Western Cape,2016-01,Supersport Live Events,89756
+Western Cape,2016-01,Trace TV,36579
+Western Cape,2016-01,Boomerang,29368
+Western Cape,2016-01,SuperSport Blitz,22426
+Western Cape,2016-01,Cartoon Network,18568
+Western Cape,2016-01,Channel O,17097
+Western Cape,2016-01,CNN,13915
+Western Cape,2016-01,E! Entertainment,8194
+Western Cape,2016-01,Africa Magic,5596
+Western Cape,2016-01,DStv Events 1,2225
+Western Cape,2016-01,SawSee,2026
+Western Cape,2016-01,M-Net,1347
+Western Cape,2016-01,kykNET,1323
+Western Cape,2016-01,MK,174
+Western Cape,2016-01,Vuzu,159
